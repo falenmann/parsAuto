@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Byvin",
+  "Models": [
+    {
+      "Model": "BD132J (CoCo)",
+      "Generations": [
+        "2011 - 2016"
+      ]
+    },
+    {
+      "Model": "BD326J (Moca)",
+      "Generations": [
+        "2011 - 2016"
+      ]
+    }
+  ]
+}

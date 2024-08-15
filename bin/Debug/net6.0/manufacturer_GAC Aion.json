@@ -1,0 +1,65 @@
+﻿{
+  "Make": "GAC Aion",
+  "Models": [
+    {
+      "Model": "Hyper GT",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Hyper HT",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Hyper SSR",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "LX",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "LX Plus",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "S",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "S Plus",
+      "Generations": [
+        "2021 - 2023"
+      ]
+    },
+    {
+      "Model": "V",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Y",
+      "Generations": [
+        "2021 - 2022"
+      ]
+    },
+    {
+      "Model": "Y Plus",
+      "Generations": [
+        "2022 - "
+      ]
+    }
+  ]
+}

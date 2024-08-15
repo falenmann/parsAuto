@@ -1,0 +1,140 @@
+﻿{
+  "Make": "Oldsmobile",
+  "Models": [
+    {
+      "Model": "Achieva",
+      "Generations": [
+        "1991 - 1997"
+      ]
+    },
+    {
+      "Model": "Alero",
+      "Generations": [
+        "1999 - 2004"
+      ]
+    },
+    {
+      "Model": "Aurora",
+      "Generations": [
+        "1999 - 2003 II",
+        "1994 - 1999 I"
+      ]
+    },
+    {
+      "Model": "Bravada",
+      "Generations": [
+        "2001 - 2004 III",
+        "1995 - 2001 II",
+        "1990 - 1994 I"
+      ]
+    },
+    {
+      "Model": "Cutlass",
+      "Generations": [
+        "1997 - 1999 VI",
+        "1978 - 1988 V",
+        "1968 - 1972 III"
+      ]
+    },
+    {
+      "Model": "Cutlass Calais",
+      "Generations": [
+        "1984 - 1991"
+      ]
+    },
+    {
+      "Model": "Cutlass Ciera",
+      "Generations": [
+        "1981 - 1996"
+      ]
+    },
+    {
+      "Model": "Cutlass Supreme",
+      "Generations": [
+        "1988 - 1997"
+      ]
+    },
+    {
+      "Model": "Eighty-Eight",
+      "Generations": [
+        "1992 - 1999 X",
+        "1986 - 1991 IX",
+        "1977 - 1985 VIII",
+        "1971 - 1976 VII",
+        "1957 - 1958 III"
+      ]
+    },
+    {
+      "Model": "Firenza",
+      "Generations": [
+        "1982 - 1988 I"
+      ]
+    },
+    {
+      "Model": "Intrigue",
+      "Generations": [
+        "1997 - 2002"
+      ]
+    },
+    {
+      "Model": "Ninety-Eight",
+      "Generations": [
+        "1991 - 1996 XI",
+        "1985 - 1990 X",
+        "1977 - 1984 IX"
+      ]
+    },
+    {
+      "Model": "Omega",
+      "Generations": [
+        "1979 - 1984"
+      ]
+    },
+    {
+      "Model": "Series 60",
+      "Generations": [
+        "1941 - 1948 II",
+        "1939 - 1940 I"
+      ]
+    },
+    {
+      "Model": "Series 70",
+      "Generations": [
+        "1949 - 1950 III",
+        "1941 - 1948 II",
+        "1939 - 1940 I"
+      ]
+    },
+    {
+      "Model": "Silhouette",
+      "Generations": [
+        "1996 - 2004 II",
+        "1989 - 1996 I"
+      ]
+    },
+    {
+      "Model": "Starfire",
+      "Generations": [
+        "1975 - 1980 II",
+        "1961 - 1966 I"
+      ]
+    },
+    {
+      "Model": "Toronado",
+      "Generations": [
+        "1985 - 1992 IV",
+        "1978 - 1985 III",
+        "1970 - 1978 II",
+        "1966 - 1970 I"
+      ]
+    },
+    {
+      "Model": "Vista Cruiser",
+      "Generations": [
+        "1973 - 1977 III",
+        "1968 - 1972 II",
+        "1964 - 1967 I"
+      ]
+    }
+  ]
+}

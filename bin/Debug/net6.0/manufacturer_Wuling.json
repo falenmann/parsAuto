@@ -1,0 +1,71 @@
+﻿{
+  "Make": "Wuling",
+  "Models": [
+    {
+      "Model": "Binguo",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Hongguang Plus",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "Hongguang S",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "Hongguang V",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "Jiachen",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Mini EV",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Star Asta",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Sunshine",
+      "Generations": [
+        "2012 -  II"
+      ]
+    },
+    {
+      "Model": "Victory",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Xingchi",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Xingguang",
+      "Generations": [
+        "2023 - "
+      ]
+    }
+  ]
+}

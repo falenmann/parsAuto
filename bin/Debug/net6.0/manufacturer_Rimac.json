@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Rimac",
+  "Models": [
+    {
+      "Model": "C Two",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "Concept_One",
+      "Generations": [
+        "2013 - 2016"
+      ]
+    },
+    {
+      "Model": "Nevera",
+      "Generations": [
+        "2021 - "
+      ]
+    }
+  ]
+}

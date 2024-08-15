@@ -1,0 +1,186 @@
+﻿{
+  "Make": "Москвич",
+  "Models": [
+    {
+      "Model": "2136",
+      "Generations": [
+        "1976 - 1981"
+      ]
+    },
+    {
+      "Model": "2137",
+      "Generations": [
+        "1976 - 1985"
+      ]
+    },
+    {
+      "Model": "2138",
+      "Generations": [
+        "1976 - 1982"
+      ]
+    },
+    {
+      "Model": "2140",
+      "Generations": [
+        "1976 - 1988"
+      ]
+    },
+    {
+      "Model": "2141",
+      "Generations": [
+        "1986 - 1998"
+      ]
+    },
+    {
+      "Model": "2142",
+      "Generations": [
+        "1990 - 2002"
+      ]
+    },
+    {
+      "Model": "3",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "3е",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "400",
+      "Generations": [
+        "1946 - 1956"
+      ]
+    },
+    {
+      "Model": "401",
+      "Generations": [
+        "1954 - 1956"
+      ]
+    },
+    {
+      "Model": "402",
+      "Generations": [
+        "1956 - 1958"
+      ]
+    },
+    {
+      "Model": "403",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "407",
+      "Generations": [
+        "1958 - 1963"
+      ]
+    },
+    {
+      "Model": "408",
+      "Generations": [
+        "1964 - 1975"
+      ]
+    },
+    {
+      "Model": "410",
+      "Generations": [
+        "1957 - 1961"
+      ]
+    },
+    {
+      "Model": "411",
+      "Generations": [
+        "1959 - 1961"
+      ]
+    },
+    {
+      "Model": "412",
+      "Generations": [
+        "1967 - 1998"
+      ]
+    },
+    {
+      "Model": "423",
+      "Generations": [
+        "1957 - 1963"
+      ]
+    },
+    {
+      "Model": "424",
+      "Generations": [
+        "1963 - 1965"
+      ]
+    },
+    {
+      "Model": "426",
+      "Generations": [
+        "1967 - 1976"
+      ]
+    },
+    {
+      "Model": "427",
+      "Generations": [
+        "1967 - 1976"
+      ]
+    },
+    {
+      "Model": "430",
+      "Generations": [
+        "1958 - 1963"
+      ]
+    },
+    {
+      "Model": "434П",
+      "Generations": [
+        "1968 - 1973"
+      ]
+    },
+    {
+      "Model": "6",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "8",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "Дуэт",
+      "Generations": [
+        "1999 - 2001 Дуэт-1",
+        "1999 - 2001 Дуэт-2"
+      ]
+    },
+    {
+      "Model": "Иван Калита",
+      "Generations": [
+        "1998 - 2001"
+      ]
+    },
+    {
+      "Model": "Князь Владимир",
+      "Generations": [
+        "1997 - 2002"
+      ]
+    },
+    {
+      "Model": "Святогор",
+      "Generations": [
+        "1997 - 2002"
+      ]
+    },
+    {
+      "Model": "Юрий Долгорукий",
+      "Generations": [
+        "1997 - 2001"
+      ]
+    }
+  ]
+}

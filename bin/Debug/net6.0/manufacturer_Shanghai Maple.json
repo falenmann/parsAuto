@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Shanghai Maple",
+  "Models": [
+    {
+      "Model": "C31",
+      "Generations": [
+        "2004 - 2009 I"
+      ]
+    },
+    {
+      "Model": "C32",
+      "Generations": [
+        "2007 - 2010 I"
+      ]
+    },
+    {
+      "Model": "C51",
+      "Generations": [
+        "2005 - 2009 I"
+      ]
+    },
+    {
+      "Model": "C52",
+      "Generations": [
+        "2007 - 2010 I"
+      ]
+    },
+    {
+      "Model": "C61",
+      "Generations": [
+        "2007 - 2010 I"
+      ]
+    },
+    {
+      "Model": "C81",
+      "Generations": [
+        "2005 - 2010 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+﻿{
+  "Make": "Rolls-Royce",
+  "Models": [
+    {
+      "Model": "20",
+      "Generations": [
+        "1905 - 1906"
+      ]
+    },
+    {
+      "Model": "20/25",
+      "Generations": [
+        "1929 - 1936 I"
+      ]
+    },
+    {
+      "Model": "Boat Tail",
+      "Generations": [
+        "2021 - 2022"
+      ]
+    },
+    {
+      "Model": "Camargue",
+      "Generations": [
+        "1975 - 1986"
+      ]
+    },
+    {
+      "Model": "Corniche",
+      "Generations": [
+        "2000 - 2002 V",
+        "1971 - 1995 I - IV"
+      ]
+    },
+    {
+      "Model": "Cullinan",
+      "Generations": [
+        "2024 -  I Рестайлинг",
+        "2018 -  I"
+      ]
+    },
+    {
+      "Model": "Dawn",
+      "Generations": [
+        "2015 - "
+      ]
+    },
+    {
+      "Model": "Ghost",
+      "Generations": [
+        "2020 -  II",
+        "2014 - 2020 I Рестайлинг (Series II)",
+        "2010 - 2014 I"
+      ]
+    },
+    {
+      "Model": "Park Ward",
+      "Generations": [
+        "2000 - 2002"
+      ]
+    },
+    {
+      "Model": "Phantom",
+      "Generations": [
+        "2017 -  VIII",
+        "2012 - 2017 VII Рестайлинг (Series II)",
+        "2003 - 2012 VII",
+        "1959 - 1968 V",
+        "1950 - 1956 IV",
+        "1936 - 1939 III",
+        "1929 - 1936 II",
+        "1925 - 1931 I"
+      ]
+    },
+    {
+      "Model": "Silver Cloud",
+      "Generations": [
+        "1963 - 1966 III",
+        "1959 - 1962 II",
+        "1955 - 1958 I"
+      ]
+    },
+    {
+      "Model": "Silver Ghost",
+      "Generations": [
+        "1906 - 1926"
+      ]
+    },
+    {
+      "Model": "Silver Seraph",
+      "Generations": [
+        "1998 - 2002"
+      ]
+    },
+    {
+      "Model": "Silver Shadow",
+      "Generations": [
+        "1965 - 1980"
+      ]
+    },
+    {
+      "Model": "Silver Spirit",
+      "Generations": [
+        "1995 - 1997 Mark IV",
+        "1993 - 1995 Mark III",
+        "1989 - 1993 Mark II",
+        "1980 - 1989 Mark I"
+      ]
+    },
+    {
+      "Model": "Silver Spur",
+      "Generations": [
+        "1995 - 1999 Mark IV",
+        "1993 - 1994 Mark III",
+        "1989 - 1993 Mark II",
+        "1980 - 1989 Mark I"
+      ]
+    },
+    {
+      "Model": "Silver Wraith",
+      "Generations": [
+        "1946 - 1959"
+      ]
+    },
+    {
+      "Model": "Spectre",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Wraith",
+      "Generations": [
+        "2013 - "
+      ]
+    }
+  ]
+}

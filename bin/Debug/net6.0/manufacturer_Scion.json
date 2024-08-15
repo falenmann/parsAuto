@@ -1,0 +1,58 @@
+﻿{
+  "Make": "Scion",
+  "Models": [
+    {
+      "Model": "FR-S",
+      "Generations": [
+        "2012 - 2016"
+      ]
+    },
+    {
+      "Model": "iA",
+      "Generations": [
+        "2015 - 2016"
+      ]
+    },
+    {
+      "Model": "iM",
+      "Generations": [
+        "2015 - 2016"
+      ]
+    },
+    {
+      "Model": "iQ",
+      "Generations": [
+        "2011 - 2016"
+      ]
+    },
+    {
+      "Model": "tC",
+      "Generations": [
+        "2013 - 2016 II Рестайлинг",
+        "2010 - 2013 II",
+        "2007 - 2010 I Рестайлинг",
+        "2004 - 2007 I"
+      ]
+    },
+    {
+      "Model": "xA",
+      "Generations": [
+        "2003 - 2006"
+      ]
+    },
+    {
+      "Model": "xB",
+      "Generations": [
+        "2010 - 2015 II Рестайлинг",
+        "2007 - 2010 II",
+        "2003 - 2007 I"
+      ]
+    },
+    {
+      "Model": "xD",
+      "Generations": [
+        "2008 - 2014"
+      ]
+    }
+  ]
+}

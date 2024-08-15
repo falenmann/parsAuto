@@ -1,0 +1,47 @@
+﻿{
+  "Make": "Talbot",
+  "Models": [
+    {
+      "Model": "1510",
+      "Generations": [
+        "1980 - 1984"
+      ]
+    },
+    {
+      "Model": "Avenger",
+      "Generations": [
+        "1970 - 1981"
+      ]
+    },
+    {
+      "Model": "Horizon",
+      "Generations": [
+        "1978 - 1986"
+      ]
+    },
+    {
+      "Model": "Rancho",
+      "Generations": [
+        "1977 - 1984 I"
+      ]
+    },
+    {
+      "Model": "Samba",
+      "Generations": [
+        "1981 - 1986"
+      ]
+    },
+    {
+      "Model": "Solara",
+      "Generations": [
+        "1980 - 1986"
+      ]
+    },
+    {
+      "Model": "Tagora",
+      "Generations": [
+        "1980 - 1987"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Arcfox",
+  "Models": [
+    {
+      "Model": "Alpha S",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Alpha S5",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "Alpha T",
+      "Generations": [
+        "2020 - "
+      ]
+    }
+  ]
+}

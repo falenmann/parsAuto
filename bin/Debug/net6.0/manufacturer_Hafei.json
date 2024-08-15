@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Hafei",
+  "Models": [
+    {
+      "Model": "Brio",
+      "Generations": [
+        "2002 - 2010"
+      ]
+    },
+    {
+      "Model": "Minyi",
+      "Generations": [
+        "2003 - 2018"
+      ]
+    },
+    {
+      "Model": "Princip",
+      "Generations": [
+        "2004 - 2010"
+      ]
+    },
+    {
+      "Model": "Saibao",
+      "Generations": [
+        "2004 - 2008"
+      ]
+    },
+    {
+      "Model": "Sigma",
+      "Generations": [
+        "2005 - 2008"
+      ]
+    },
+    {
+      "Model": "Simbo",
+      "Generations": [
+        "2006 - 2008"
+      ]
+    }
+  ]
+}

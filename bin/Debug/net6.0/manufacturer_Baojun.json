@@ -1,0 +1,53 @@
+﻿{
+  "Make": "Baojun",
+  "Models": [
+    {
+      "Model": "E300",
+      "Generations": [
+        "2020 - 2021"
+      ]
+    },
+    {
+      "Model": "Kiwi EV",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "RC-5",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "RS-3",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "RS-5",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "Yep",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Yep Plus",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "Yunduo",
+      "Generations": [
+        "2023 - "
+      ]
+    }
+  ]
+}

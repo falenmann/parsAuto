@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Ultima",
+  "Models": [
+    {
+      "Model": "Can-Am",
+      "Generations": [
+        "2001 - 2016"
+      ]
+    },
+    {
+      "Model": "GTR",
+      "Generations": [
+        "1999 - 2016"
+      ]
+    },
+    {
+      "Model": "RS",
+      "Generations": [
+        "2019 - "
+      ]
+    }
+  ]
+}

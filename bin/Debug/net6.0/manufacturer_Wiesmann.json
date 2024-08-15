@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Wiesmann",
+  "Models": [
+    {
+      "Model": "GT",
+      "Generations": [
+        "2003 - 2013"
+      ]
+    },
+    {
+      "Model": "Roadster",
+      "Generations": [
+        "1996 - 2013"
+      ]
+    }
+  ]
+}

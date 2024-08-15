@@ -1,0 +1,272 @@
+﻿{
+  "Make": "Ferrari",
+  "Models": [
+    {
+      "Model": "12Cilindri",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "208/308",
+      "Generations": [
+        "1974 - 1989"
+      ]
+    },
+    {
+      "Model": "250 GTO",
+      "Generations": [
+        "1962 - 1964 I"
+      ]
+    },
+    {
+      "Model": "288 GTO",
+      "Generations": [
+        "1984 - 1987"
+      ]
+    },
+    {
+      "Model": "296",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "328",
+      "Generations": [
+        "1985 - 1989"
+      ]
+    },
+    {
+      "Model": "348",
+      "Generations": [
+        "1989 - 1995"
+      ]
+    },
+    {
+      "Model": "360",
+      "Generations": [
+        "1999 - 2005"
+      ]
+    },
+    {
+      "Model": "400",
+      "Generations": [
+        "1976 - 1985"
+      ]
+    },
+    {
+      "Model": "412",
+      "Generations": [
+        "1985 - 1988"
+      ]
+    },
+    {
+      "Model": "456",
+      "Generations": [
+        "1998 - 2003 II (456M)",
+        "1992 - 1997 I (456)"
+      ]
+    },
+    {
+      "Model": "458",
+      "Generations": [
+        "2009 - 2015"
+      ]
+    },
+    {
+      "Model": "488",
+      "Generations": [
+        "2018 - 2019"
+      ]
+    },
+    {
+      "Model": "512 BB",
+      "Generations": [
+        "1976 - 1984"
+      ]
+    },
+    {
+      "Model": "512 M",
+      "Generations": [
+        "1994 - 1996"
+      ]
+    },
+    {
+      "Model": "512 TR",
+      "Generations": [
+        "1991 - 1994"
+      ]
+    },
+    {
+      "Model": "550",
+      "Generations": [
+        "1996 - 2001"
+      ]
+    },
+    {
+      "Model": "575M",
+      "Generations": [
+        "2002 - 2006"
+      ]
+    },
+    {
+      "Model": "599",
+      "Generations": [
+        "2006 - 2012"
+      ]
+    },
+    {
+      "Model": "612",
+      "Generations": [
+        "2004 - 2011"
+      ]
+    },
+    {
+      "Model": "812",
+      "Generations": [
+        "2017 - "
+      ]
+    },
+    {
+      "Model": "California",
+      "Generations": [
+        "2014 - 2017 I Рестайлинг (T)",
+        "2008 - 2014 I"
+      ]
+    },
+    {
+      "Model": "Daytona SP3",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Dino 206 GT",
+      "Generations": [
+        "1967 - 1969 I"
+      ]
+    },
+    {
+      "Model": "Dino 208/308 GT4",
+      "Generations": [
+        "1973 - 1978"
+      ]
+    },
+    {
+      "Model": "Dino 246 GT",
+      "Generations": [
+        "1969 - 1974 I"
+      ]
+    },
+    {
+      "Model": "Enzo",
+      "Generations": [
+        "2002 - 2004"
+      ]
+    },
+    {
+      "Model": "F12",
+      "Generations": [
+        "2012 - 2017"
+      ]
+    },
+    {
+      "Model": "F355",
+      "Generations": [
+        "1994 - 1999"
+      ]
+    },
+    {
+      "Model": "F40",
+      "Generations": [
+        "1987 - 1992"
+      ]
+    },
+    {
+      "Model": "F430",
+      "Generations": [
+        "2004 - 2009"
+      ]
+    },
+    {
+      "Model": "F50",
+      "Generations": [
+        "1995 - 1997"
+      ]
+    },
+    {
+      "Model": "F8",
+      "Generations": [
+        "2019 - 2023"
+      ]
+    },
+    {
+      "Model": "FF",
+      "Generations": [
+        "2011 - 2016"
+      ]
+    },
+    {
+      "Model": "FXX K",
+      "Generations": [
+        "2015 - 2017"
+      ]
+    },
+    {
+      "Model": "GTC4Lusso",
+      "Generations": [
+        "2016 - 2020"
+      ]
+    },
+    {
+      "Model": "LaFerrari",
+      "Generations": [
+        "2013 - 2017"
+      ]
+    },
+    {
+      "Model": "Mondial",
+      "Generations": [
+        "1980 - 1993"
+      ]
+    },
+    {
+      "Model": "Monza SP",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "Portofino",
+      "Generations": [
+        "2020 - 2023 I Рестайлинг (M)",
+        "2017 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Purosangue",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Roma",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "SF90",
+      "Generations": [
+        "2019 -  I"
+      ]
+    },
+    {
+      "Model": "Testarossa",
+      "Generations": [
+        "1984 - 1991"
+      ]
+    }
+  ]
+}

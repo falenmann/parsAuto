@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Delage",
+  "Models": [
+    {
+      "Model": "D12",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "D6",
+      "Generations": [
+        "1930 - 1940 I"
+      ]
+    },
+    {
+      "Model": "DI",
+      "Generations": [
+        "1923 - 1927"
+      ]
+    }
+  ]
+}

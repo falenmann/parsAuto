@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Borgward",
+  "Models": [
+    {
+      "Model": "2000",
+      "Generations": [
+        "1939 - 1942"
+      ]
+    },
+    {
+      "Model": "BX5",
+      "Generations": [
+        "2017 - 2021"
+      ]
+    },
+    {
+      "Model": "Hansa 1100",
+      "Generations": [
+        "1934 - 1939"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿{
+  "Make": "Xpeng",
+  "Models": [
+    {
+      "Model": "G3",
+      "Generations": [
+        "2021 - 2023 I Рестайлинг",
+        "2018 - 2021 I"
+      ]
+    },
+    {
+      "Model": "G6",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "G9",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "P5",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "P7",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "P7i",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "X9",
+      "Generations": [
+        "2024 - "
+      ]
+    }
+  ]
+}

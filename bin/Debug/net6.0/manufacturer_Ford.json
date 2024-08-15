@@ -1,0 +1,832 @@
+﻿{
+  "Make": "Ford",
+  "Models": [
+    {
+      "Model": "Aerostar",
+      "Generations": [
+        "1986 - 1997"
+      ]
+    },
+    {
+      "Model": "Anglia",
+      "Generations": [
+        "1959 - 1968 IV 105E"
+      ]
+    },
+    {
+      "Model": "Aspire",
+      "Generations": [
+        "1993 - 1997"
+      ]
+    },
+    {
+      "Model": "Transit",
+      "Generations": []
+    },
+    {
+      "Model": "B-MAX",
+      "Generations": [
+        "2012 - 2018"
+      ]
+    },
+    {
+      "Model": "Bronco",
+      "Generations": [
+        "2020 -  VI",
+        "1992 - 1996 V",
+        "1987 - 1991 IV",
+        "1980 - 1986 III",
+        "1978 - 1979 II",
+        "1966 - 1977 I"
+      ]
+    },
+    {
+      "Model": "Bronco Sport",
+      "Generations": [
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "Bronco-II",
+      "Generations": [
+        "1984 - 1990"
+      ]
+    },
+    {
+      "Model": "C-MAX",
+      "Generations": [
+        "2015 - 2019 II Рестайлинг",
+        "2010 - 2015 II",
+        "2007 - 2010 I Рестайлинг",
+        "2003 - 2007 I"
+      ]
+    },
+    {
+      "Model": "Capri",
+      "Generations": [
+        "1978 - 1987 III",
+        "1974 - 1977 II",
+        "1969 - 1974 I"
+      ]
+    },
+    {
+      "Model": "Consul",
+      "Generations": [
+        "1972 - 1976"
+      ]
+    },
+    {
+      "Model": "Contour",
+      "Generations": [
+        "1997 - 2000 I Рестайлинг",
+        "1994 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Cortina",
+      "Generations": [
+        "1970 - 1976 III"
+      ]
+    },
+    {
+      "Model": "Cougar",
+      "Generations": [
+        "1998 - 2002"
+      ]
+    },
+    {
+      "Model": "Country Squire",
+      "Generations": [
+        "1965 - 1968 VI",
+        "1960 - 1964 V",
+        "1957 - 1959 IV",
+        "1955 - 1956 III",
+        "1952 - 1954 II",
+        "1950 - 1951 I"
+      ]
+    },
+    {
+      "Model": "Crown Victoria",
+      "Generations": [
+        "1997 - 2011 II",
+        "1992 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Custom",
+      "Generations": [
+        "1949 - 1955"
+      ]
+    },
+    {
+      "Model": "Econoline",
+      "Generations": [
+        "1992 - 2013 IV",
+        "1975 - 1992 III",
+        "1968 - 1974 II"
+      ]
+    },
+    {
+      "Model": "Econovan",
+      "Generations": [
+        "1983 - 1996 II",
+        "1979 - 1983 I"
+      ]
+    },
+    {
+      "Model": "EcoSport",
+      "Generations": [
+        "2017 - 2023 II Рестайлинг",
+        "2012 - 2018 II",
+        "2007 - 2012 I Рестайлинг",
+        "2003 - 2007 I"
+      ]
+    },
+    {
+      "Model": "Edge",
+      "Generations": [
+        "2023 -  III (L)",
+        "2018 -  II Рестайлинг",
+        "2015 - 2018 II",
+        "2010 - 2014 I Рестайлинг",
+        "2006 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Equator",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Equator Sport",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Escape",
+      "Generations": [
+        "2019 -  IV",
+        "2019 -  IV (China Market)",
+        "2015 - 2019 III Рестайлинг",
+        "2012 - 2015 III",
+        "2007 - 2012 II",
+        "2007 - 2012 I Рестайлинг 2",
+        "2004 - 2007 I Рестайлинг",
+        "2000 - 2004 I"
+      ]
+    },
+    {
+      "Model": "Escort",
+      "Generations": [
+        "1995 - 2002 V Рестайлинг 2",
+        "1991 - 1996 V Рестайлинг 1",
+        "1990 - 1992 V",
+        "1986 - 1990 IV",
+        "1980 - 1986 III",
+        "1973 - 1981 II",
+        "1968 - 1976 I"
+      ]
+    },
+    {
+      "Model": "Escort (North America)",
+      "Generations": [
+        "1996 - 2003 III",
+        "1990 - 1996 II"
+      ]
+    },
+    {
+      "Model": "Everest",
+      "Generations": [
+        "2022 -  III",
+        "2018 -  II Рестайлинг",
+        "2015 - 2018 II",
+        "2009 - 2015 I Рестайлинг 2",
+        "2006 - 2009 I Рестайлинг",
+        "2003 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Evos",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Excursion",
+      "Generations": [
+        "1999 - 2005"
+      ]
+    },
+    {
+      "Model": "Expedition",
+      "Generations": [
+        "2021 -  IV Рестайлинг",
+        "2017 - 2022 IV",
+        "2014 - 2017 III Рестайлинг",
+        "2006 - 2014 III",
+        "2002 - 2006 II",
+        "1996 - 2002 I"
+      ]
+    },
+    {
+      "Model": "Explorer",
+      "Generations": [
+        "2022 -  VI Рестайлинг",
+        "2019 -  VI",
+        "2017 - 2019 V Рестайлинг 2",
+        "2015 - 2018 V Рестайлинг",
+        "2010 - 2015 V",
+        "2005 - 2010 IV",
+        "2001 - 2006 III",
+        "2001 - 2003 II Рестайлинг",
+        "1994 - 2001 II",
+        "1990 - 1994 I"
+      ]
+    },
+    {
+      "Model": "Explorer Sport Trac",
+      "Generations": [
+        "2006 - 2010 II",
+        "2000 - 2005 I"
+      ]
+    },
+    {
+      "Model": "F-150",
+      "Generations": [
+        "2020 -  XIV",
+        "2017 - 2020 XIII Рестайлинг",
+        "2014 - 2018 XIII",
+        "2008 - 2014 XII",
+        "2003 - 2008 XI",
+        "1996 - 2004 X",
+        "1991 - 1996 IX",
+        "1986 - 1991 VIII",
+        "1979 - 1986 VII"
+      ]
+    },
+    {
+      "Model": "F-2",
+      "Generations": [
+        "1948 - 1952"
+      ]
+    },
+    {
+      "Model": "Fairlane",
+      "Generations": [
+        "1969 - 1981 VI (Argentina)",
+        "1957 - 1959 II"
+      ]
+    },
+    {
+      "Model": "Fairmont",
+      "Generations": [
+        "1978 - 1983"
+      ]
+    },
+    {
+      "Model": "Falcon",
+      "Generations": [
+        "1972 - 1979 III (XA, XB, XC)",
+        "1966 - 1972 II (XR, XT, XW, XY)",
+        "1960 - 1966 I (XK, XL, XM, XP)"
+      ]
+    },
+    {
+      "Model": "Festiva",
+      "Generations": [
+        "1996 - 2003 III",
+        "1993 - 2000 II",
+        "1986 - 1993 I"
+      ]
+    },
+    {
+      "Model": "Fiesta",
+      "Generations": [
+        "2021 - 2023 Mk7 Рестайлинг",
+        "2017 - 2021 Mk7",
+        "2012 - 2019 Mk6 Рестайлинг",
+        "2008 - 2013 Mk6",
+        "2002 - 2008 Mk5",
+        "1999 - 2002 Mk4 Рестайлинг",
+        "1995 - 1999 Mk4",
+        "1989 - 1996 Mk3",
+        "1983 - 1989 Mk2",
+        "1976 - 1983 Mk1"
+      ]
+    },
+    {
+      "Model": "Fiesta ST",
+      "Generations": [
+        "2021 - 2023 VII Рестайлинг",
+        "2018 - 2021 VII",
+        "2013 - 2018 VI",
+        "2005 - 2008 V Рестайлинг",
+        "2004 - 2005 V"
+      ]
+    },
+    {
+      "Model": "Figo",
+      "Generations": [
+        "2018 - 2021 II Рестайлинг",
+        "2015 - 2018 II",
+        "2012 - 2015 I Рестайлинг",
+        "2010 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Five Hundred",
+      "Generations": [
+        "2004 - 2007"
+      ]
+    },
+    {
+      "Model": "Flex",
+      "Generations": [
+        "2012 - 2019 I Рестайлинг",
+        "2008 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Focus",
+      "Generations": [
+        "2021 -  IV Рестайлинг",
+        "2018 -  IV",
+        "2014 - 2019 III Рестайлинг",
+        "2011 - 2015 III",
+        "2007 - 2010 II (North America)",
+        "2007 - 2011 II Рестайлинг",
+        "2004 - 2008 II",
+        "2004 - 2007 I Рестайлинг (North America)",
+        "2001 - 2005 I Рестайлинг",
+        "1999 - 2004 I (North America)",
+        "1998 - 2001 I"
+      ]
+    },
+    {
+      "Model": "Focus RS",
+      "Generations": [
+        "2016 - 2018 III",
+        "2009 - 2011 II",
+        "2002 - 2005 I"
+      ]
+    },
+    {
+      "Model": "Focus ST",
+      "Generations": [
+        "2021 -  IV Рестайлинг",
+        "2019 - 2021 IV",
+        "2015 - 2018 III Рестайлинг",
+        "2012 - 2015 III",
+        "2008 - 2011 II Рестайлинг",
+        "2005 - 2008 II",
+        "2001 - 2005 I"
+      ]
+    },
+    {
+      "Model": "Freda",
+      "Generations": [
+        "1995 - 1999 I"
+      ]
+    },
+    {
+      "Model": "Freestar",
+      "Generations": [
+        "2003 - 2007"
+      ]
+    },
+    {
+      "Model": "Freestyle",
+      "Generations": [
+        "2004 - 2009"
+      ]
+    },
+    {
+      "Model": "Fusion",
+      "Generations": [
+        "2005 - 2012 I Рестайлинг",
+        "2002 - 2005 I"
+      ]
+    },
+    {
+      "Model": "Fusion (North America)",
+      "Generations": [
+        "2016 - 2020 II Рестайлинг",
+        "2012 - 2016 II",
+        "2009 - 2012 I Рестайлинг",
+        "2005 - 2009 I"
+      ]
+    },
+    {
+      "Model": "Galaxie",
+      "Generations": [
+        "1968 - 1974 IV",
+        "1965 - 1968 III",
+        "1960 - 1964 II"
+      ]
+    },
+    {
+      "Model": "Galaxy",
+      "Generations": [
+        "2019 - 2023 III Рестайлинг",
+        "2015 - 2019 III",
+        "2010 - 2015 II Рестайлинг",
+        "2006 - 2010 II",
+        "2000 - 2006 I Рестайлинг",
+        "1995 - 2000 I"
+      ]
+    },
+    {
+      "Model": "GPA",
+      "Generations": [
+        "1942 - 1943"
+      ]
+    },
+    {
+      "Model": "Granada",
+      "Generations": [
+        "1977 - 1985 II",
+        "1972 - 1977 I"
+      ]
+    },
+    {
+      "Model": "Granada (North America)",
+      "Generations": [
+        "1980 - 1982 II",
+        "1975 - 1980 I"
+      ]
+    },
+    {
+      "Model": "GT",
+      "Generations": [
+        "2016 - 2022 II",
+        "2005 - 2006 I"
+      ]
+    },
+    {
+      "Model": "GT40",
+      "Generations": [
+        "1964 - 1969"
+      ]
+    },
+    {
+      "Model": "Ikon",
+      "Generations": [
+        "2007 - 2015 II",
+        "1999 - 2011 I"
+      ]
+    },
+    {
+      "Model": "Ixion",
+      "Generations": [
+        "1999 - 2005"
+      ]
+    },
+    {
+      "Model": "KA",
+      "Generations": [
+        "2014 - 2021 III",
+        "2008 - 2016 II",
+        "1996 - 2008 I"
+      ]
+    },
+    {
+      "Model": "Kuga",
+      "Generations": [
+        "2019 -  III",
+        "2016 - 2019 II Рестайлинг",
+        "2012 - 2016 II",
+        "2008 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Laser",
+      "Generations": [
+        "1994 - 2003 IV",
+        "1989 - 1994 III",
+        "1985 - 1994 II",
+        "1981 - 1985 I"
+      ]
+    },
+    {
+      "Model": "LTD",
+      "Generations": [
+        "1967 - 1968 I"
+      ]
+    },
+    {
+      "Model": "LTD Country Squire",
+      "Generations": [
+        "1979 - 1991 II",
+        "1969 - 1978 I"
+      ]
+    },
+    {
+      "Model": "LTD Crown Victoria",
+      "Generations": [
+        "1983 - 1991"
+      ]
+    },
+    {
+      "Model": "M151",
+      "Generations": [
+        "1959 - 1982 I"
+      ]
+    },
+    {
+      "Model": "Mainline",
+      "Generations": [
+        "1952 - 1956"
+      ]
+    },
+    {
+      "Model": "Maverick",
+      "Generations": [
+        "2021 -  III",
+        "2000 - 2007 II",
+        "1993 - 1998 I"
+      ]
+    },
+    {
+      "Model": "Model A",
+      "Generations": [
+        "1927 - 1931"
+      ]
+    },
+    {
+      "Model": "Model T",
+      "Generations": [
+        "1908 - 1927"
+      ]
+    },
+    {
+      "Model": "Mondeo",
+      "Generations": [
+        "2022 -  VI",
+        "2019 - 2022 V Рестайлинг",
+        "2014 - 2019 V",
+        "2010 - 2014 IV Рестайлинг",
+        "2006 - 2010 IV",
+        "2003 - 2007 III Рестайлинг",
+        "2000 - 2003 III",
+        "1996 - 2000 II",
+        "1993 - 1996 I"
+      ]
+    },
+    {
+      "Model": "Mondeo ST",
+      "Generations": [
+        "2002 - 2007 III",
+        "1999 - 2001 II"
+      ]
+    },
+    {
+      "Model": "Mustang",
+      "Generations": [
+        "2023 -  VII",
+        "2017 - 2023 VI Рестайлинг",
+        "2014 - 2017 VI",
+        "2009 - 2014 V Рестайлинг",
+        "2004 - 2009 V",
+        "1998 - 2004 IV Рестайлинг",
+        "1993 - 1998 IV",
+        "1986 - 1993 III Рестайлинг",
+        "1978 - 1986 III",
+        "1974 - 1978 II",
+        "1964 - 1973 I"
+      ]
+    },
+    {
+      "Model": "Mustang Mach-E",
+      "Generations": [
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "Orion",
+      "Generations": [
+        "1990 - 1993 III",
+        "1985 - 1990 II",
+        "1983 - 1986 I"
+      ]
+    },
+    {
+      "Model": "Probe",
+      "Generations": [
+        "1992 - 1997 II",
+        "1988 - 1992 I"
+      ]
+    },
+    {
+      "Model": "Puma",
+      "Generations": [
+        "2024 -  II Рестайлинг",
+        "2019 -  II",
+        "1997 - 2003 I"
+      ]
+    },
+    {
+      "Model": "Puma ST",
+      "Generations": [
+        "2024 -  II Рестайлинг",
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Ranchero",
+      "Generations": [
+        "1972 - 1976 VI",
+        "1957 - 1960 I"
+      ]
+    },
+    {
+      "Model": "Ranger",
+      "Generations": [
+        "2022 -  T6.2",
+        "2018 - 2022 T6 Рестайлинг 2",
+        "2015 - 2019 T6 Рестайлинг",
+        "2011 - 2015 T6",
+        "2009 - 2011 II Рестайлинг",
+        "2006 - 2009 II",
+        "1998 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Ranger (North America)",
+      "Generations": [
+        "1997 - 2012 III",
+        "1993 - 1997 II",
+        "1989 - 1992 I Рестайлинг",
+        "1983 - 1988 I"
+      ]
+    },
+    {
+      "Model": "S-MAX",
+      "Generations": [
+        "2019 - 2023 II Рестайлинг",
+        "2015 - 2019 II",
+        "2010 - 2015 I Рестайлинг",
+        "2006 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Scorpio",
+      "Generations": [
+        "1994 - 1998 II",
+        "1985 - 1994 I"
+      ]
+    },
+    {
+      "Model": "Sierra",
+      "Generations": [
+        "1987 - 1993 I Рестайлинг",
+        "1982 - 1989 I"
+      ]
+    },
+    {
+      "Model": "Spectron",
+      "Generations": [
+        "1983 - 1995"
+      ]
+    },
+    {
+      "Model": "Taunus",
+      "Generations": [
+        "1979 - 1982 III",
+        "1975 - 1979 II",
+        "1970 - 1976 I",
+        "1964 - 1967 P5"
+      ]
+    },
+    {
+      "Model": "Taurus",
+      "Generations": [
+        "2012 - 2019 VI Рестайлинг",
+        "2009 - 2012 VI",
+        "2007 - 2009 V",
+        "2003 - 2006 IV Рестайлинг",
+        "1999 - 2004 IV",
+        "1995 - 1999 III",
+        "1991 - 1995 II",
+        "1985 - 1991 I"
+      ]
+    },
+    {
+      "Model": "Taurus X",
+      "Generations": [
+        "2007 - 2009"
+      ]
+    },
+    {
+      "Model": "Telstar",
+      "Generations": [
+        "1996 - 1999 V",
+        "1991 - 1996 III",
+        "1987 - 1992 II"
+      ]
+    },
+    {
+      "Model": "Tempo",
+      "Generations": [
+        "1983 - 1994"
+      ]
+    },
+    {
+      "Model": "Territory",
+      "Generations": [
+        "2022 -  CX743MCA",
+        "2018 - 2023 CX743",
+        "2014 - 2016 SZ Рестайлинг",
+        "2011 - 2014 SZ",
+        "2009 - 2011 SY Рестайлинг",
+        "2005 - 2009 SY",
+        "2004 - 2005 SX"
+      ]
+    },
+    {
+      "Model": "Thunderbird",
+      "Generations": [
+        "2000 - 2005 XI (Retro Birds)",
+        "1988 - 1997 X (Super Birds)",
+        "1983 - 1988 IX (Aero Birds)",
+        "1972 - 1976 VI",
+        "1967 - 1971 V",
+        "1961 - 1963 III",
+        "1955 - 1957 I"
+      ]
+    },
+    {
+      "Model": "Torino",
+      "Generations": [
+        "1972 - 1976 III",
+        "1970 - 1971 II",
+        "1968 - 1969 I"
+      ]
+    },
+    {
+      "Model": "Tourneo Connect",
+      "Generations": [
+        "2021 -  III",
+        "2018 - 2022 II Рестайлинг",
+        "2012 - 2018 II",
+        "2009 - 2013 I Рестайлинг",
+        "2002 - 2009 I"
+      ]
+    },
+    {
+      "Model": "Tourneo Courier",
+      "Generations": [
+        "2023 -  II",
+        "2018 -  I Рестайлинг",
+        "2014 - 2018 I"
+      ]
+    },
+    {
+      "Model": "Tourneo Custom",
+      "Generations": [
+        "2023 -  I (China Market) Рестайлинг",
+        "2017 -  I Рестайлинг",
+        "2012 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Transit Connect",
+      "Generations": [
+        "2018 -  II Рестайлинг",
+        "2012 - 2018 II",
+        "2009 -  I Рестайлинг",
+        "2002 - 2009 I"
+      ]
+    },
+    {
+      "Model": "Transit Custom",
+      "Generations": [
+        "2023 -  I (China Market)",
+        "2023 -  II",
+        "2017 -  I Рестайлинг",
+        "2012 - 2018 I"
+      ]
+    },
+    {
+      "Model": "V8",
+      "Generations": [
+        "1938 - 1939 II (Model 91A-73B)",
+        "1932 - 1932 I (Model 18)"
+      ]
+    },
+    {
+      "Model": "Windstar",
+      "Generations": [
+        "1998 - 2003 II",
+        "1994 - 1998 I"
+      ]
+    },
+    {
+      "Model": "Zephyr",
+      "Generations": [
+        "1956 - 1962 II"
+      ]
+    }
+  ]
+}

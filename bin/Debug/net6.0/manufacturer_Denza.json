@@ -1,0 +1,36 @@
+﻿{
+  "Make": "Denza",
+  "Models": [
+    {
+      "Model": "500",
+      "Generations": [
+        "2018 - 2019 I Рестайлинг",
+        "2014 - 2018 I"
+      ]
+    },
+    {
+      "Model": "D9",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "N7",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "N8",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "X",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    }
+  ]
+}

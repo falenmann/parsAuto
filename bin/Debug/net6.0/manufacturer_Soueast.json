@@ -1,0 +1,73 @@
+﻿{
+  "Make": "Soueast",
+  "Models": [
+    {
+      "Model": "A5",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "DX3",
+      "Generations": [
+        "2016 - "
+      ]
+    },
+    {
+      "Model": "DX5",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "DX7",
+      "Generations": [
+        "2020 -  I Рестайлинг 2 (Xingyue)",
+        "2018 - 2020 I Рестайлинг (Prime)",
+        "2015 - 2018 I (Bolang)"
+      ]
+    },
+    {
+      "Model": "DX8",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "DX8S",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Lioncel",
+      "Generations": [
+        "2005 - 2010"
+      ]
+    },
+    {
+      "Model": "Soveran",
+      "Generations": [
+        "2004 - 2008"
+      ]
+    },
+    {
+      "Model": "V3",
+      "Generations": [
+        "2008 - 2017"
+      ]
+    },
+    {
+      "Model": "V5",
+      "Generations": [
+        "2012 - "
+      ]
+    },
+    {
+      "Model": "V6 Cross",
+      "Generations": [
+        "2013 - 2015"
+      ]
+    }
+  ]
+}

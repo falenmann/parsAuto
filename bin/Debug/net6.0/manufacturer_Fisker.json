@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Fisker",
+  "Models": [
+    {
+      "Model": "Karma",
+      "Generations": [
+        "2009 - 2012"
+      ]
+    },
+    {
+      "Model": "Ocean",
+      "Generations": [
+        "2023 - "
+      ]
+    }
+  ]
+}

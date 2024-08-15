@@ -1,0 +1,49 @@
+﻿{
+  "Make": "FSO",
+  "Models": [
+    {
+      "Model": "125p",
+      "Generations": [
+        "1967 - 1992"
+      ]
+    },
+    {
+      "Model": "126p",
+      "Generations": [
+        "1973 - 1991"
+      ]
+    },
+    {
+      "Model": "127p",
+      "Generations": [
+        "1971 - 1976"
+      ]
+    },
+    {
+      "Model": "132p",
+      "Generations": [
+        "1974 - 1978"
+      ]
+    },
+    {
+      "Model": "Lanos",
+      "Generations": [
+        "2004 - 2008"
+      ]
+    },
+    {
+      "Model": "Polonez",
+      "Generations": [
+        "1992 - 2002 II (Caro)",
+        "1987 - 1992 I Рестайлинг",
+        "1977 - 1991 I"
+      ]
+    },
+    {
+      "Model": "Warszawa",
+      "Generations": [
+        "1964 - 1973 203/204 (223/224)"
+      ]
+    }
+  ]
+}

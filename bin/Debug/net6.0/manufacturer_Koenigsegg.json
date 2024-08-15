@@ -1,0 +1,47 @@
+﻿{
+  "Make": "Koenigsegg",
+  "Models": [
+    {
+      "Model": "Agera",
+      "Generations": [
+        "2011 - 2018"
+      ]
+    },
+    {
+      "Model": "CC8S",
+      "Generations": [
+        "1998 - 2004"
+      ]
+    },
+    {
+      "Model": "CCR",
+      "Generations": [
+        "2004 - 2006"
+      ]
+    },
+    {
+      "Model": "CCX",
+      "Generations": [
+        "2006 - 2010"
+      ]
+    },
+    {
+      "Model": "Jesko",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "One:1",
+      "Generations": [
+        "2014 - 2014"
+      ]
+    },
+    {
+      "Model": "Regera",
+      "Generations": [
+        "2015 -  I"
+      ]
+    }
+  ]
+}

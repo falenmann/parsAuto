@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Hozon",
+  "Models": [
+    {
+      "Model": "Neta GT",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Neta S",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Neta U",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Neta U-II",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Neta V",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Neta X",
+      "Generations": [
+        "2023 - "
+      ]
+    }
+  ]
+}

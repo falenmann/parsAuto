@@ -1,0 +1,54 @@
+﻿{
+  "Make": "Forthing",
+  "Models": [
+    {
+      "Model": "CM7",
+      "Generations": [
+        "2013 - 2020"
+      ]
+    },
+    {
+      "Model": "Lingzhi M5",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "M7",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "T5",
+      "Generations": [
+        "2022 -  I Рестайлинг 2",
+        "2019 - 2022 I Рестайлинг"
+      ]
+    },
+    {
+      "Model": "T5 EVO",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "T5L",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "Thunder",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Yacht",
+      "Generations": [
+        "2022 - "
+      ]
+    }
+  ]
+}

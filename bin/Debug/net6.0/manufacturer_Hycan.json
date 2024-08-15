@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Hycan",
+  "Models": [
+    {
+      "Model": "007",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "A06",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "V09",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Z03",
+      "Generations": [
+        "2021 - "
+      ]
+    }
+  ]
+}

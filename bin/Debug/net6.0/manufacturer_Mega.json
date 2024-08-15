@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Mega",
+  "Models": [
+    {
+      "Model": "Club",
+      "Generations": [
+        "1992 - 1999"
+      ]
+    },
+    {
+      "Model": "Monte Carlo",
+      "Generations": [
+        "1996 - 1999"
+      ]
+    },
+    {
+      "Model": "Track",
+      "Generations": [
+        "1992 - 2000"
+      ]
+    }
+  ]
+}

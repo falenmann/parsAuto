@@ -1,0 +1,187 @@
+﻿{
+  "Make": "BAIC",
+  "Models": [
+    {
+      "Model": "A1",
+      "Generations": [
+        "2012 - 2018 I"
+      ]
+    },
+    {
+      "Model": "BJ2020",
+      "Generations": [
+        "1989 - 2005"
+      ]
+    },
+    {
+      "Model": "BJ2021",
+      "Generations": [
+        "1984 - 2005"
+      ]
+    },
+    {
+      "Model": "BJ2026",
+      "Generations": [
+        "2011 - 2015"
+      ]
+    },
+    {
+      "Model": "BJ2030",
+      "Generations": [
+        "1993 - 2012"
+      ]
+    },
+    {
+      "Model": "BJ212",
+      "Generations": [
+        "2020 -  I Рестайлинг",
+        "1964 - 1987 I"
+      ]
+    },
+    {
+      "Model": "BJ30",
+      "Generations": [
+        "2024 -  II",
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "BJ40",
+      "Generations": [
+        "2023 -  II",
+        "2019 -  I Рестайлинг",
+        "2013 - 2019 I"
+      ]
+    },
+    {
+      "Model": "BJ60",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "BJ80",
+      "Generations": [
+        "2016 - "
+      ]
+    },
+    {
+      "Model": "BJ90",
+      "Generations": [
+        "2016 - 2023"
+      ]
+    },
+    {
+      "Model": "EU",
+      "Generations": [
+        "2015 - 2017 I"
+      ]
+    },
+    {
+      "Model": "EU5",
+      "Generations": [
+        "2021 -  I (Plus) Рестайлинг",
+        "2018 - 2022 I"
+      ]
+    },
+    {
+      "Model": "EU7",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "EX3",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "EX5",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "Jeep 2500",
+      "Generations": [
+        "2003 - 2005"
+      ]
+    },
+    {
+      "Model": "Kenbo 600",
+      "Generations": [
+        "2015 - 2020"
+      ]
+    },
+    {
+      "Model": "Luba (XB624)",
+      "Generations": [
+        "2000 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Ruixiang X5",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "U5",
+      "Generations": [
+        "2017 - 2022 II",
+        "2014 - 2017 I"
+      ]
+    },
+    {
+      "Model": "U5 Plus",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "U7",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "X3",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "X35",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "X5",
+      "Generations": [
+        "2018 -  II (Beijing X5)",
+        "2015 - 2018 I (Senova X55)"
+      ]
+    },
+    {
+      "Model": "X55",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "X7",
+      "Generations": [
+        "2023 -  I Рестайлинг",
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "X75",
+      "Generations": [
+        "2024 - "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+﻿{
+  "Make": "MG",
+  "Models": [
+    {
+      "Model": "3",
+      "Generations": [
+        "2024 -  III",
+        "2017 -  II Рестайлинг 2",
+        "2013 - 2018 II Рестайлинг",
+        "2011 - 2013 II"
+      ]
+    },
+    {
+      "Model": "350",
+      "Generations": [
+        "2010 - 2015"
+      ]
+    },
+    {
+      "Model": "4 EV",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "5",
+      "Generations": [
+        "2020 -  II",
+        "2017 -  I Рестайлинг",
+        "2013 - 2018 I"
+      ]
+    },
+    {
+      "Model": "5 EV",
+      "Generations": [
+        "2022 -  I Рестайлинг",
+        "2020 - 2022 I"
+      ]
+    },
+    {
+      "Model": "550",
+      "Generations": [
+        "2009 - 2017 I"
+      ]
+    },
+    {
+      "Model": "6",
+      "Generations": [
+        "2020 -  II Рестайлинг",
+        "2017 -  II",
+        "2010 - 2017 I"
+      ]
+    },
+    {
+      "Model": "6 Pro",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "7",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "750",
+      "Generations": [
+        "2006 - 2016 I"
+      ]
+    },
+    {
+      "Model": "Cyberster",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "F",
+      "Generations": [
+        "1995 - 2002"
+      ]
+    },
+    {
+      "Model": "GS",
+      "Generations": [
+        "2015 - 2019 I"
+      ]
+    },
+    {
+      "Model": "HS",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "Maestro",
+      "Generations": [
+        "1983 - 1990"
+      ]
+    },
+    {
+      "Model": "Metro",
+      "Generations": [
+        "1982 - 1990"
+      ]
+    },
+    {
+      "Model": "MGA",
+      "Generations": [
+        "1955 - 1962"
+      ]
+    },
+    {
+      "Model": "MGB",
+      "Generations": [
+        "1966 - 1980"
+      ]
+    },
+    {
+      "Model": "Midget",
+      "Generations": [
+        "1964 - 1979"
+      ]
+    },
+    {
+      "Model": "Montego",
+      "Generations": [
+        "1984 - 1990"
+      ]
+    },
+    {
+      "Model": "Mulan",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "One",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Pilot",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "RV8",
+      "Generations": [
+        "1992 - 1995"
+      ]
+    },
+    {
+      "Model": "RX8",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "TD Midget",
+      "Generations": [
+        "1950 - 1953 I"
+      ]
+    },
+    {
+      "Model": "TF",
+      "Generations": [
+        "2002 - 2005"
+      ]
+    },
+    {
+      "Model": "Xpower SV",
+      "Generations": [
+        "2003 - 2005"
+      ]
+    },
+    {
+      "Model": "ZR",
+      "Generations": [
+        "2001 - 2005"
+      ]
+    },
+    {
+      "Model": "ZS",
+      "Generations": [
+        "2019 -  II Рестайлинг",
+        "2017 - 2021 II",
+        "2001 - 2005 I"
+      ]
+    },
+    {
+      "Model": "ZT",
+      "Generations": [
+        "2001 - 2005"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿{
+  "Make": "JMC",
+  "Models": [
+    {
+      "Model": "Baodian",
+      "Generations": [
+        "2006 - 2009"
+      ]
+    },
+    {
+      "Model": "Dadao",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Vigus",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Vigus Work",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Yuhu 7",
+      "Generations": [
+        "2017 - "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+﻿{
+  "Make": "CHERY",
+  "Models": [
+    {
+      "Model": "Amulet (A15)",
+      "Generations": [
+        "2010 - 2012 I Рестайлинг",
+        "2003 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Arrizo 3",
+      "Generations": [
+        "2014 - 2018 I"
+      ]
+    },
+    {
+      "Model": "Arrizo 5",
+      "Generations": [
+        "2019 - 2020 EX",
+        "2016 -  I"
+      ]
+    },
+    {
+      "Model": "Arrizo 5 GT",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Arrizo 5 Plus",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Arrizo 6",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "Arrizo 7",
+      "Generations": [
+        "2013 - 2018"
+      ]
+    },
+    {
+      "Model": "Arrizo 8",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "B13",
+      "Generations": [
+        "2006 - 2008 I"
+      ]
+    },
+    {
+      "Model": "Bonus (A13)",
+      "Generations": [
+        "2011 - 2014"
+      ]
+    },
+    {
+      "Model": "Bonus 3 (E3/A19)",
+      "Generations": [
+        "2014 - 2017"
+      ]
+    },
+    {
+      "Model": "CrossEastar (B14)",
+      "Generations": [
+        "2006 - 2014"
+      ]
+    },
+    {
+      "Model": "E5",
+      "Generations": [
+        "2011 - 2016"
+      ]
+    },
+    {
+      "Model": "eQ1",
+      "Generations": [
+        "2017 - "
+      ]
+    },
+    {
+      "Model": "eQ5",
+      "Generations": [
+        "2020 - 2022"
+      ]
+    },
+    {
+      "Model": "eQ7",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Explore 06",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Fora (A21)",
+      "Generations": [
+        "2006 - 2011"
+      ]
+    },
+    {
+      "Model": "Fulwin A8",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Fulwin T6",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "Fulwin T9",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "IndiS (S18D)",
+      "Generations": [
+        "2010 - 2015 I"
+      ]
+    },
+    {
+      "Model": "Karry",
+      "Generations": [
+        "2007 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Kimo (A1)",
+      "Generations": [
+        "2007 - 2014"
+      ]
+    },
+    {
+      "Model": "M11 (A3)",
+      "Generations": [
+        "2010 - 2015"
+      ]
+    },
+    {
+      "Model": "Omoda 5",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Oriental Son (B11)",
+      "Generations": [
+        "2003 - 2012"
+      ]
+    },
+    {
+      "Model": "QQ Ice Cream",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "QQ6 (S21)",
+      "Generations": [
+        "2006 - 2010"
+      ]
+    },
+    {
+      "Model": "QQme",
+      "Generations": [
+        "2009 - 2011 I"
+      ]
+    },
+    {
+      "Model": "Sweet (QQ)",
+      "Generations": [
+        "2003 - 2015"
+      ]
+    },
+    {
+      "Model": "Tiggo (T11)",
+      "Generations": [
+        "2011 - 2016 I Рестайлинг (FL)",
+        "2005 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 2",
+      "Generations": [
+        "2016 - 2021 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 2 Pro",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Tiggo 3",
+      "Generations": [
+        "2014 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 3x",
+      "Generations": [
+        "2020 - 2023 I Рестайлинг",
+        "2016 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 3xe",
+      "Generations": [
+        "2018 - 2021"
+      ]
+    },
+    {
+      "Model": "Tiggo 4",
+      "Generations": [
+        "2018 -  I Рестайлинг",
+        "2017 - 2019 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 4 Pro",
+      "Generations": [
+        "2024 -  I Рестайлинг",
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "Tiggo 5",
+      "Generations": [
+        "2016 - 2020 I Рестайлинг",
+        "2014 - 2016 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 5x",
+      "Generations": [
+        "2023 -  I Рестайлинг 3",
+        "2019 - 2023 I Рестайлинг 2",
+        "2018 - 2020 I Рестайлинг",
+        "2017 - 2018 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 7",
+      "Generations": [
+        "2024 -  II Рестайлинг",
+        "2020 -  II",
+        "2016 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 7 Plus",
+      "Generations": [
+        "2022 -  I Рестайлинг",
+        "2021 - 2022 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 7 Pro",
+      "Generations": [
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "Tiggo 7 Pro Max",
+      "Generations": [
+        "2024 -  I Рестайлинг",
+        "2022 -  I"
+      ]
+    },
+    {
+      "Model": "Tiggo 7 Pro Plug-in Hybrid",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Tiggo 8",
+      "Generations": [
+        "2022 -  I Рестайлинг",
+        "2018 - 2022 I"
+      ]
+    },
+    {
+      "Model": "Tiggo 8 Pro",
+      "Generations": [
+        "2022 -  I (China Market)",
+        "2021 -  I"
+      ]
+    },
+    {
+      "Model": "Tiggo 8 Pro e+",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Tiggo 8 Pro Max",
+      "Generations": [
+        "2023 -  I Рестайлинг",
+        "2022 -  I"
+      ]
+    },
+    {
+      "Model": "Tiggo 8 Pro Plug-in Hybrid",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Tiggo 9",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Very (A13)",
+      "Generations": [
+        "2011 - 2014"
+      ]
+    },
+    {
+      "Model": "Windcloud (A11)",
+      "Generations": [
+        "1999 - 2006 I"
+      ]
+    }
+  ]
+}

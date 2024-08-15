@@ -1,0 +1,47 @@
+﻿{
+  "Make": "Foton",
+  "Models": [
+    {
+      "Model": "Mars 7",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Mars 9",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Midi",
+      "Generations": [
+        "2007 - 2014"
+      ]
+    },
+    {
+      "Model": "Sauvana",
+      "Generations": [
+        "2015 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Tunland",
+      "Generations": [
+        "2011 - 2018 I"
+      ]
+    },
+    {
+      "Model": "Tunland G7",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "Tunland G9",
+      "Generations": [
+        "2021 - "
+      ]
+    }
+  ]
+}

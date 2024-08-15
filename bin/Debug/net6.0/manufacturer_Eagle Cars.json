@@ -1,0 +1,11 @@
+﻿{
+  "Make": "Eagle Cars",
+  "Models": [
+    {
+      "Model": "SS",
+      "Generations": [
+        "1982 - 1998"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Ravon",
+  "Models": [
+    {
+      "Model": "Gentra",
+      "Generations": [
+        "2015 - 2018"
+      ]
+    },
+    {
+      "Model": "Matiz",
+      "Generations": [
+        "2015 - 2016"
+      ]
+    },
+    {
+      "Model": "Nexia R3",
+      "Generations": [
+        "2015 - 2020"
+      ]
+    },
+    {
+      "Model": "R2",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "R4",
+      "Generations": [
+        "2016 - 2020"
+      ]
+    }
+  ]
+}

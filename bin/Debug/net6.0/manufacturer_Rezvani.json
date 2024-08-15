@@ -1,0 +1,18 @@
+﻿{
+  "Make": "Rezvani",
+  "Models": [
+    {
+      "Model": "Beast",
+      "Generations": [
+        "2015 - "
+      ]
+    },
+    {
+      "Model": "Tank",
+      "Generations": [
+        "2019 -  II",
+        "2017 - 2019 I"
+      ]
+    }
+  ]
+}

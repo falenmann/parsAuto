@@ -1,0 +1,157 @@
+﻿{
+  "Make": "Aston Martin",
+  "Models": [
+    {
+      "Model": "Bulldog",
+      "Generations": [
+        "1980 - 1982"
+      ]
+    },
+    {
+      "Model": "Cygnet",
+      "Generations": [
+        "2011 - 2013"
+      ]
+    },
+    {
+      "Model": "DB AR1",
+      "Generations": [
+        "2003 - 2004"
+      ]
+    },
+    {
+      "Model": "DB11",
+      "Generations": [
+        "2016 - 2023 I"
+      ]
+    },
+    {
+      "Model": "DB12",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "DB5",
+      "Generations": [
+        "1963 - 1965"
+      ]
+    },
+    {
+      "Model": "DB7",
+      "Generations": [
+        "1999 - 2003 I Рестайлинг",
+        "1994 - 1999 I"
+      ]
+    },
+    {
+      "Model": "DB9",
+      "Generations": [
+        "2012 - 2016 I Рестайлинг 2",
+        "2008 - 2013 I Рестайлинг",
+        "2003 - 2008 I"
+      ]
+    },
+    {
+      "Model": "DBS",
+      "Generations": [
+        "2018 -  III",
+        "2007 - 2012 II",
+        "1967 - 1972 I"
+      ]
+    },
+    {
+      "Model": "DBX",
+      "Generations": [
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "Lagonda",
+      "Generations": [
+        "1976 - 1997"
+      ]
+    },
+    {
+      "Model": "One-77",
+      "Generations": [
+        "2009 - 2012"
+      ]
+    },
+    {
+      "Model": "Rapide",
+      "Generations": [
+        "2013 - 2020 I (S)",
+        "2010 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Tickford Capri",
+      "Generations": [
+        "1982 - 1985"
+      ]
+    },
+    {
+      "Model": "V12 Vantage",
+      "Generations": [
+        "2020 -  II",
+        "2009 - 2017 I"
+      ]
+    },
+    {
+      "Model": "V12 Zagato",
+      "Generations": [
+        "2011 - 2012"
+      ]
+    },
+    {
+      "Model": "V8 Vantage",
+      "Generations": [
+        "2024 -  IV Рестайлинг",
+        "2017 -  IV",
+        "2008 - 2017 III Рестайлинг",
+        "2005 - 2008 III",
+        "1993 - 2000 II",
+        "1969 - 1989 I"
+      ]
+    },
+    {
+      "Model": "V8 Zagato",
+      "Generations": [
+        "1986 - 1989"
+      ]
+    },
+    {
+      "Model": "Valkyrie",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Valour",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Vanquish",
+      "Generations": [
+        "2012 - 2018 II",
+        "2001 - 2007 I"
+      ]
+    },
+    {
+      "Model": "Virage",
+      "Generations": [
+        "2011 - 2012 II",
+        "1988 - 2000 I"
+      ]
+    },
+    {
+      "Model": "Vulcan",
+      "Generations": [
+        "2015 - 2016"
+      ]
+    }
+  ]
+}

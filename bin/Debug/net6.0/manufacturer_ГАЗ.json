@@ -1,0 +1,180 @@
+﻿{
+  "Make": "ГАЗ",
+  "Models": [
+    {
+      "Model": "12 ЗИМ",
+      "Generations": [
+        "1948 - 1960"
+      ]
+    },
+    {
+      "Model": "13 «Чайка»",
+      "Generations": [
+        "1959 - 1981"
+      ]
+    },
+    {
+      "Model": "14 «Чайка»",
+      "Generations": [
+        "1977 - 1989"
+      ]
+    },
+    {
+      "Model": "18",
+      "Generations": [
+        "1955 - 1958 I"
+      ]
+    },
+    {
+      "Model": "21 «Волга»",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "22 «Волга»",
+      "Generations": [
+        "1962 - 1970"
+      ]
+    },
+    {
+      "Model": "2308 «Атаман»",
+      "Generations": [
+        "1999 - 2000"
+      ]
+    },
+    {
+      "Model": "2330 «Тигр»",
+      "Generations": [
+        "2003 - "
+      ]
+    },
+    {
+      "Model": "24 «Волга»",
+      "Generations": [
+        "1985 - 1992 II (2410)",
+        "1968 - 1987 I (24)"
+      ]
+    },
+    {
+      "Model": "25",
+      "Generations": [
+        "1939 - 1939"
+      ]
+    },
+    {
+      "Model": "3102 «Волга»",
+      "Generations": [
+        "1982 - 2009"
+      ]
+    },
+    {
+      "Model": "31022 «Волга»",
+      "Generations": [
+        "1992 - 1998"
+      ]
+    },
+    {
+      "Model": "310221 «Волга»",
+      "Generations": [
+        "1997 - 2008"
+      ]
+    },
+    {
+      "Model": "31029 «Волга»",
+      "Generations": [
+        "1992 - 1998"
+      ]
+    },
+    {
+      "Model": "3103 «Волга»",
+      "Generations": [
+        "1997 - 1997"
+      ]
+    },
+    {
+      "Model": "3105 «Волга»",
+      "Generations": [
+        "1992 - 1996"
+      ]
+    },
+    {
+      "Model": "3110 «Волга»",
+      "Generations": [
+        "1997 - 2008"
+      ]
+    },
+    {
+      "Model": "31105 «Волга»",
+      "Generations": [
+        "2003 - 2009"
+      ]
+    },
+    {
+      "Model": "3111 «Волга»",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "46",
+      "Generations": [
+        "1953 - 1958"
+      ]
+    },
+    {
+      "Model": "61",
+      "Generations": [
+        "1941 - 1948"
+      ]
+    },
+    {
+      "Model": "64",
+      "Generations": [
+        "1941 - 1943 I"
+      ]
+    },
+    {
+      "Model": "69",
+      "Generations": [
+        "1953 - 1972"
+      ]
+    },
+    {
+      "Model": "Volga Siber",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "А",
+      "Generations": [
+        "1932 - 1936"
+      ]
+    },
+    {
+      "Model": "ГАЗ 67",
+      "Generations": [
+        "1943 - 1953"
+      ]
+    },
+    {
+      "Model": "М-20 «Победа»",
+      "Generations": [
+        "1946 - 1958"
+      ]
+    },
+    {
+      "Model": "М-72",
+      "Generations": [
+        "1955 - 1958"
+      ]
+    },
+    {
+      "Model": "М1",
+      "Generations": [
+        "1934 - 1948"
+      ]
+    }
+  ]
+}

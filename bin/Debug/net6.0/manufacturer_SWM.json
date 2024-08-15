@@ -1,0 +1,53 @@
+﻿{
+  "Make": "SWM",
+  "Models": [
+    {
+      "Model": "G01",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "G01F",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "G05",
+      "Generations": [
+        "2019 - 2021"
+      ]
+    },
+    {
+      "Model": "G05 Pro",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Shineray X30",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Tiger",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "X3",
+      "Generations": [
+        "2017 - "
+      ]
+    },
+    {
+      "Model": "X7",
+      "Generations": [
+        "2016 - "
+      ]
+    }
+  ]
+}

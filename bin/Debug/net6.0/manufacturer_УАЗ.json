@@ -1,0 +1,70 @@
+﻿{
+  "Make": "УАЗ",
+  "Models": [
+    {
+      "Model": "3151",
+      "Generations": [
+        "1985 - 2013"
+      ]
+    },
+    {
+      "Model": "3153",
+      "Generations": [
+        "1996 - 2006"
+      ]
+    },
+    {
+      "Model": "3159",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "3160",
+      "Generations": [
+        "1997 - 2004"
+      ]
+    },
+    {
+      "Model": "3162 Simbir",
+      "Generations": [
+        "1999 - 2005"
+      ]
+    },
+    {
+      "Model": "469",
+      "Generations": [
+        "1972 - 2011"
+      ]
+    },
+    {
+      "Model": "Hunter",
+      "Generations": [
+        "2003 - "
+      ]
+    },
+    {
+      "Model": "Patriot",
+      "Generations": [
+        "2016 -  I Рестайлинг 3",
+        "2014 - 2016 I Рестайлинг 2",
+        "2012 - 2014 I Рестайлинг",
+        "2005 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Pickup",
+      "Generations": [
+        "2016 -  I Рестайлинг 2",
+        "2014 - 2016 I Рестайлинг",
+        "2008 - 2014 I"
+      ]
+    },
+    {
+      "Model": "Астеро",
+      "Generations": [
+        "1997 - 1999"
+      ]
+    }
+  ]
+}

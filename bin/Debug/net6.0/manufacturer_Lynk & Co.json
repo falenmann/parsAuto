@@ -1,0 +1,55 @@
+﻿{
+  "Make": "Lynk & Co",
+  "Models": [
+    {
+      "Model": "01",
+      "Generations": [
+        "2020 -  I Рестайлинг",
+        "2017 - 2020 I"
+      ]
+    },
+    {
+      "Model": "02",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "03",
+      "Generations": [
+        "2022 -  I Рестайлинг",
+        "2018 - 2022 I"
+      ]
+    },
+    {
+      "Model": "05",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "06",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "07",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "08",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "09",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

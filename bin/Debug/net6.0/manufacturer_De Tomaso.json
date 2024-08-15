@@ -1,0 +1,42 @@
+﻿{
+  "Make": "De Tomaso",
+  "Models": [
+    {
+      "Model": "Bigua",
+      "Generations": [
+        "2000 - 2002"
+      ]
+    },
+    {
+      "Model": "Guara",
+      "Generations": [
+        "1993 - 2001"
+      ]
+    },
+    {
+      "Model": "Longchamp",
+      "Generations": [
+        "1972 - 1989 I"
+      ]
+    },
+    {
+      "Model": "Mangusta",
+      "Generations": [
+        "1996 - 2001 II",
+        "1967 - 1971 I"
+      ]
+    },
+    {
+      "Model": "Pantera",
+      "Generations": [
+        "1970 - 1991"
+      ]
+    },
+    {
+      "Model": "Vallelunga",
+      "Generations": [
+        "1964 - 1968"
+      ]
+    }
+  ]
+}

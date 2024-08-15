@@ -1,0 +1,29 @@
+﻿{
+  "Make": "HuangHai",
+  "Models": [
+    {
+      "Model": "Antelope",
+      "Generations": [
+        "2006 - 2009"
+      ]
+    },
+    {
+      "Model": "Landscape",
+      "Generations": [
+        "2007 - 2011"
+      ]
+    },
+    {
+      "Model": "N1",
+      "Generations": [
+        "2014 - "
+      ]
+    },
+    {
+      "Model": "Plutus",
+      "Generations": [
+        "2007 - 2011"
+      ]
+    }
+  ]
+}

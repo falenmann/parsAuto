@@ -1,0 +1,47 @@
+﻿{
+  "Make": "ТагАЗ",
+  "Models": [
+    {
+      "Model": "Aquila",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "C-30",
+      "Generations": [
+        "2011 - 2011"
+      ]
+    },
+    {
+      "Model": "C10",
+      "Generations": [
+        "2011 - 2013"
+      ]
+    },
+    {
+      "Model": "C190",
+      "Generations": [
+        "2011 - 2013"
+      ]
+    },
+    {
+      "Model": "Road Partner",
+      "Generations": [
+        "2008 - 2011"
+      ]
+    },
+    {
+      "Model": "Tager",
+      "Generations": [
+        "2008 - 2012"
+      ]
+    },
+    {
+      "Model": "Vega",
+      "Generations": [
+        "2009 - 2010"
+      ]
+    }
+  ]
+}

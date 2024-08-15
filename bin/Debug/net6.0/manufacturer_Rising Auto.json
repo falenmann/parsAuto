@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Rising Auto",
+  "Models": [
+    {
+      "Model": "F7",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Marvel R",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "R7",
+      "Generations": [
+        "2022 - "
+      ]
+    }
+  ]
+}

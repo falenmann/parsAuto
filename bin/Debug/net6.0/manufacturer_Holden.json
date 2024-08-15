@@ -1,0 +1,101 @@
+﻿{
+  "Make": "Holden",
+  "Models": [
+    {
+      "Model": "Apollo",
+      "Generations": [
+        "1991 - 1996"
+      ]
+    },
+    {
+      "Model": "Astra",
+      "Generations": [
+        "1999 - 2004 IV (TS)"
+      ]
+    },
+    {
+      "Model": "Barina",
+      "Generations": [
+        "2001 - 2005 IV (XC)",
+        "1997 - 2000 III (SB)"
+      ]
+    },
+    {
+      "Model": "Calais",
+      "Generations": [
+        "1997 - 2006 III",
+        "1988 - 1997 II"
+      ]
+    },
+    {
+      "Model": "Caprice",
+      "Generations": [
+        "1998 - 2006 II",
+        "1990 - 1999 I"
+      ]
+    },
+    {
+      "Model": "Commodore",
+      "Generations": [
+        "1997 - 2002 III",
+        "1990 - 1997 II"
+      ]
+    },
+    {
+      "Model": "Cruze",
+      "Generations": [
+        "2002 - 2006"
+      ]
+    },
+    {
+      "Model": "Frontera",
+      "Generations": [
+        "1998 - 2003"
+      ]
+    },
+    {
+      "Model": "Jackaroo",
+      "Generations": [
+        "1998 - 2003"
+      ]
+    },
+    {
+      "Model": "Monaro",
+      "Generations": [
+        "2001 - 2005"
+      ]
+    },
+    {
+      "Model": "Rodeo",
+      "Generations": [
+        "1998 - 2003"
+      ]
+    },
+    {
+      "Model": "Statesman",
+      "Generations": [
+        "1999 - 2006 II",
+        "1990 - 1998 I"
+      ]
+    },
+    {
+      "Model": "UTE",
+      "Generations": [
+        "2006 - 2013 IV",
+        "2000 - 2006 III"
+      ]
+    },
+    {
+      "Model": "Vectra",
+      "Generations": [
+        "1998 - 2001"
+      ]
+    },
+    {
+      "Model": "Zafira",
+      "Generations": [
+        "2001 - 2005"
+      ]
+    }
+  ]
+}

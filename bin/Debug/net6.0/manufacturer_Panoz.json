@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Panoz",
+  "Models": [
+    {
+      "Model": "Esperante",
+      "Generations": [
+        "2000 - 2007"
+      ]
+    },
+    {
+      "Model": "Roadster",
+      "Generations": [
+        "1992 - 1999"
+      ]
+    }
+  ]
+}

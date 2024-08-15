@@ -1,0 +1,31 @@
+﻿{
+  "Make": "Ram",
+  "Models": [
+    {
+      "Model": "1500",
+      "Generations": [
+        "2024 -  V Рестайлинг",
+        "2018 -  V",
+        "2011 -  IV (DS/DJ)"
+      ]
+    },
+    {
+      "Model": "ProMaster City",
+      "Generations": [
+        "2014 - 2022"
+      ]
+    },
+    {
+      "Model": "Rampage",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "V1000",
+      "Generations": [
+        "2022 - "
+      ]
+    }
+  ]
+}

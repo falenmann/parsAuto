@@ -1,0 +1,71 @@
+﻿{
+  "Make": "ЗАЗ",
+  "Models": [
+    {
+      "Model": "1102 «Таврия»",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "1103 «Славута»",
+      "Generations": [
+        "1999 - 2011"
+      ]
+    },
+    {
+      "Model": "1105 «Дана»",
+      "Generations": [
+        "1994 - 2011"
+      ]
+    },
+    {
+      "Model": "965",
+      "Generations": [
+        "1960 - 1970"
+      ]
+    },
+    {
+      "Model": "966",
+      "Generations": [
+        "1967 - 1972"
+      ]
+    },
+    {
+      "Model": "968",
+      "Generations": [
+        "1972 - 1994"
+      ]
+    },
+    {
+      "Model": "Chance",
+      "Generations": [
+        "2009 - 2014"
+      ]
+    },
+    {
+      "Model": "Forza",
+      "Generations": [
+        "2011 - 2014"
+      ]
+    },
+    {
+      "Model": "Lanos",
+      "Generations": [
+        "2004 - 2015"
+      ]
+    },
+    {
+      "Model": "Sens",
+      "Generations": [
+        "2004 - 2017"
+      ]
+    },
+    {
+      "Model": "Vida",
+      "Generations": [
+        "2012 - 2016"
+      ]
+    }
+  ]
+}

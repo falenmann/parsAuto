@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Marcos",
+  "Models": [
+    {
+      "Model": "GTS",
+      "Generations": [
+        "1997 - 1999"
+      ]
+    },
+    {
+      "Model": "LM 400",
+      "Generations": [
+        "1994 - 1998"
+      ]
+    },
+    {
+      "Model": "LM 500",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Mantis",
+      "Generations": [
+        "1997 - 1999"
+      ]
+    },
+    {
+      "Model": "Marcasite",
+      "Generations": [
+        "2002 - 2007"
+      ]
+    }
+  ]
+}

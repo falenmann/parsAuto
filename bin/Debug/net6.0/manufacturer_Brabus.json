@@ -1,0 +1,42 @@
+﻿{
+  "Make": "Brabus",
+  "Models": [
+    {
+      "Model": "7.3S",
+      "Generations": [
+        "1991 - 1998"
+      ]
+    },
+    {
+      "Model": "E V12",
+      "Generations": [
+        "2009 - 2013 W212, C207, A207",
+        "1996 - 1999 W210, S210"
+      ]
+    },
+    {
+      "Model": "G V12",
+      "Generations": [
+        "2004 - 2006"
+      ]
+    },
+    {
+      "Model": "M V12",
+      "Generations": [
+        "1997 - 2001"
+      ]
+    },
+    {
+      "Model": "ML 63 Biturbo",
+      "Generations": [
+        "2009 - 2011"
+      ]
+    },
+    {
+      "Model": "SV12",
+      "Generations": [
+        "2009 - 2013"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "Make": "VGV",
+  "Models": [
+    {
+      "Model": "U70",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "U70 Pro",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "U75 Plus",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "VX7",
+      "Generations": [
+        "2022 - "
+      ]
+    }
+  ]
+}

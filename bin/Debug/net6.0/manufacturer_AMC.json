@@ -1,0 +1,35 @@
+﻿{
+  "Make": "AMC",
+  "Models": [
+    {
+      "Model": "Eagle",
+      "Generations": [
+        "1979 - 1987"
+      ]
+    },
+    {
+      "Model": "Hornet",
+      "Generations": [
+        "1974 - 1975"
+      ]
+    },
+    {
+      "Model": "Matador",
+      "Generations": [
+        "1974 - 1978"
+      ]
+    },
+    {
+      "Model": "Rambler Ambassador",
+      "Generations": [
+        "1965 - 1972"
+      ]
+    },
+    {
+      "Model": "Rambler Classic",
+      "Generations": [
+        "1961 - 1966"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Make": "LTI",
+  "Models": [
+    {
+      "Model": "FX4",
+      "Generations": [
+        "1984 - 1989"
+      ]
+    },
+    {
+      "Model": "TX",
+      "Generations": [
+        "2006 -  TX4 III",
+        "2002 - 2006 II",
+        "1998 - 2002 I"
+      ]
+    }
+  ]
+}

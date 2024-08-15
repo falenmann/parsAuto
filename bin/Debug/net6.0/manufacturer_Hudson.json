@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Hudson",
+  "Models": [
+    {
+      "Model": "Deluxe Eight",
+      "Generations": [
+        "1936 - 1937"
+      ]
+    },
+    {
+      "Model": "Super Six",
+      "Generations": [
+        "1916 - 1928"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿{
+  "Make": "Спортивные авто и реплики",
+  "Models": [
+    {
+      "Model": "GT & Touring",
+      "Generations": [
+        "1950 - "
+      ]
+    },
+    {
+      "Model": "Offroad",
+      "Generations": [
+        "1950 - "
+      ]
+    },
+    {
+      "Model": "Rally/cross",
+      "Generations": [
+        "1950 - "
+      ]
+    },
+    {
+      "Model": "Shortcut",
+      "Generations": [
+        "2017 - "
+      ]
+    },
+    {
+      "Model": "Багги Type 1",
+      "Generations": [
+        "1964 - "
+      ]
+    },
+    {
+      "Model": "Драгстер",
+      "Generations": [
+        "1950 - "
+      ]
+    },
+    {
+      "Model": "Дрифт-кар",
+      "Generations": [
+        "1950 - "
+      ]
+    },
+    {
+      "Model": "Самоделки",
+      "Generations": [
+        "1943 - "
+      ]
+    },
+    {
+      "Model": "Спортпрототип",
+      "Generations": [
+        "1950 - "
+      ]
+    },
+    {
+      "Model": "Формула",
+      "Generations": [
+        "1950 - "
+      ]
+    },
+    {
+      "Model": "Хот-род и Кастом",
+      "Generations": [
+        "1950 - "
+      ]
+    }
+  ]
+}

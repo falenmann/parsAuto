@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Isdera",
+  "Models": [
+    {
+      "Model": "Commendatore 112i",
+      "Generations": [
+        "1993 - 1993"
+      ]
+    },
+    {
+      "Model": "Imperator 108i",
+      "Generations": [
+        "1984 - 1993"
+      ]
+    },
+    {
+      "Model": "Spyder",
+      "Generations": [
+        "1983 - 1993"
+      ]
+    }
+  ]
+}

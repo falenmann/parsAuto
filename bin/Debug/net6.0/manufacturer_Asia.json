@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Asia",
+  "Models": [
+    {
+      "Model": "Retona",
+      "Generations": [
+        "1997 - 2003"
+      ]
+    },
+    {
+      "Model": "Rocsta",
+      "Generations": [
+        "1989 - 1998"
+      ]
+    },
+    {
+      "Model": "Topic",
+      "Generations": [
+        "1987 - 1999"
+      ]
+    },
+    {
+      "Model": "Towner",
+      "Generations": [
+        "1992 - 1999"
+      ]
+    }
+  ]
+}

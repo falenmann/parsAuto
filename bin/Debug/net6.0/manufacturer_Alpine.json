@@ -1,0 +1,30 @@
+﻿{
+  "Make": "Alpine",
+  "Models": [
+    {
+      "Model": "A110",
+      "Generations": [
+        "2017 -  II",
+        "1961 - 1977 I"
+      ]
+    },
+    {
+      "Model": "A310",
+      "Generations": [
+        "1971 - 1985"
+      ]
+    },
+    {
+      "Model": "A610",
+      "Generations": [
+        "1991 - 1995"
+      ]
+    },
+    {
+      "Model": "GTA",
+      "Generations": [
+        "1985 - 1990"
+      ]
+    }
+  ]
+}

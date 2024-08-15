@@ -1,0 +1,60 @@
+﻿{
+  "Make": "Iran Khodro",
+  "Models": [
+    {
+      "Model": "Arisun",
+      "Generations": [
+        "2022 -  II",
+        "2015 - 2022 I"
+      ]
+    },
+    {
+      "Model": "Dena",
+      "Generations": [
+        "2011 -  I"
+      ]
+    },
+    {
+      "Model": "Paykan",
+      "Generations": [
+        "1985 - 2005"
+      ]
+    },
+    {
+      "Model": "Runna",
+      "Generations": [
+        "2012 -  I"
+      ]
+    },
+    {
+      "Model": "Sahra",
+      "Generations": [
+        "1989 - 2001"
+      ]
+    },
+    {
+      "Model": "Samand",
+      "Generations": [
+        "2001 - "
+      ]
+    },
+    {
+      "Model": "Sarir",
+      "Generations": [
+        "2006 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Soren",
+      "Generations": [
+        "2007 - "
+      ]
+    },
+    {
+      "Model": "Tara",
+      "Generations": [
+        "2021 - "
+      ]
+    }
+  ]
+}

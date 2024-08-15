@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Zastava",
+  "Models": [
+    {
+      "Model": "10",
+      "Generations": [
+        "2005 - 2008"
+      ]
+    },
+    {
+      "Model": "Florida",
+      "Generations": [
+        "1990 - 2008"
+      ]
+    },
+    {
+      "Model": "Skala",
+      "Generations": [
+        "1973 - 2008"
+      ]
+    },
+    {
+      "Model": "Yugo",
+      "Generations": [
+        "1990 - 2008"
+      ]
+    }
+  ]
+}

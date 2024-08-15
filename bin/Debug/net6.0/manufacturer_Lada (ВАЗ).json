@@ -1,0 +1,236 @@
+﻿{
+  "Make": "Lada (ВАЗ)",
+  "Models": [
+    {
+      "Model": "1111 Ока",
+      "Generations": [
+        "1987 - 2008"
+      ]
+    },
+    {
+      "Model": "2101",
+      "Generations": [
+        "1970 - 1988"
+      ]
+    },
+    {
+      "Model": "2102",
+      "Generations": [
+        "1971 - 1986"
+      ]
+    },
+    {
+      "Model": "2103",
+      "Generations": [
+        "1972 - 1984"
+      ]
+    },
+    {
+      "Model": "2104",
+      "Generations": [
+        "1984 - 2012"
+      ]
+    },
+    {
+      "Model": "2105",
+      "Generations": [
+        "1979 - 2011"
+      ]
+    },
+    {
+      "Model": "2106",
+      "Generations": [
+        "1976 - 2006"
+      ]
+    },
+    {
+      "Model": "2107",
+      "Generations": [
+        "1982 - 2012"
+      ]
+    },
+    {
+      "Model": "2108",
+      "Generations": [
+        "1984 - 2005"
+      ]
+    },
+    {
+      "Model": "2109",
+      "Generations": [
+        "1987 - 2006"
+      ]
+    },
+    {
+      "Model": "21099",
+      "Generations": [
+        "1990 - 2011"
+      ]
+    },
+    {
+      "Model": "2110",
+      "Generations": [
+        "1995 - 2014"
+      ]
+    },
+    {
+      "Model": "2111",
+      "Generations": [
+        "1997 - 2014"
+      ]
+    },
+    {
+      "Model": "2112",
+      "Generations": [
+        "1998 - 2009"
+      ]
+    },
+    {
+      "Model": "2113",
+      "Generations": [
+        "2004 - 2013"
+      ]
+    },
+    {
+      "Model": "2114",
+      "Generations": [
+        "2001 - 2013"
+      ]
+    },
+    {
+      "Model": "2115",
+      "Generations": [
+        "1997 - 2012"
+      ]
+    },
+    {
+      "Model": "2120 Надежда",
+      "Generations": [
+        "2002 - 2006 I Рестайлинг",
+        "1998 - 2006 I"
+      ]
+    },
+    {
+      "Model": "2121 (4x4)",
+      "Generations": [
+        "2019 - 2021 I Рестайлинг (2020)",
+        "1993 - 2020 I Рестайлинг",
+        "1977 - 1994 I"
+      ]
+    },
+    {
+      "Model": "2123",
+      "Generations": [
+        "1998 - 2002"
+      ]
+    },
+    {
+      "Model": "2129",
+      "Generations": [
+        "1992 - 1996"
+      ]
+    },
+    {
+      "Model": "2131 (4x4)",
+      "Generations": [
+        "2019 - 2021 I Рестайлинг (2020)",
+        "1993 - 2019 I"
+      ]
+    },
+    {
+      "Model": "2328",
+      "Generations": [
+        "1995 - 1997"
+      ]
+    },
+    {
+      "Model": "2329",
+      "Generations": [
+        "1995 - 2019"
+      ]
+    },
+    {
+      "Model": "EL Lada",
+      "Generations": [
+        "2012 - 2013"
+      ]
+    },
+    {
+      "Model": "Granta",
+      "Generations": [
+        "2018 -  I Рестайлинг",
+        "2011 - 2018 I"
+      ]
+    },
+    {
+      "Model": "Iskra",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "Aura",
+      "Generations": []
+    },
+    {
+      "Model": "Kalina",
+      "Generations": [
+        "2013 - 2018 II",
+        "2004 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Largus",
+      "Generations": [
+        "2021 -  I Рестайлинг",
+        "2012 - 2021 I"
+      ]
+    },
+    {
+      "Model": "Niva",
+      "Generations": [
+        "2020 - 2021 I",
+        "2020 -  I Рестайлинг (Travel)"
+      ]
+    },
+    {
+      "Model": "Niva Legend",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Priora",
+      "Generations": [
+        "2013 - 2018 I Рестайлинг",
+        "2007 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Revolution",
+      "Generations": [
+        "2006 - 2006 SuperSport",
+        "2003 - 2004 Sport"
+      ]
+    },
+    {
+      "Model": "Vesta",
+      "Generations": [
+        "2022 -  I Рестайлинг (NG)",
+        "2015 - 2022 I"
+      ]
+    },
+    {
+      "Model": "X-cross 5",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "XRAY",
+      "Generations": [
+        "2015 - 2022 I"
+      ]
+    }
+  ]
+}

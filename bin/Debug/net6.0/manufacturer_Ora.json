@@ -1,0 +1,47 @@
+﻿{
+  "Make": "Ora",
+  "Models": [
+    {
+      "Model": "03",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Ballet Cat",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Black Cat",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "Good Cat",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Lightning Cat",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "SAR (Saloon) Mecha Dragon",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "White Cat",
+      "Generations": [
+        "2020 - 2022"
+      ]
+    }
+  ]
+}

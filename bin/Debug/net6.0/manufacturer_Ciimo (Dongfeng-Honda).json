@@ -1,0 +1,18 @@
+﻿{
+  "Make": "Ciimo (Dongfeng-Honda)",
+  "Models": [
+    {
+      "Model": "M-NV",
+      "Generations": [
+        "2023 -  I Рестайлинг",
+        "2020 - 2023 I"
+      ]
+    },
+    {
+      "Model": "X-NV",
+      "Generations": [
+        "2019 - 2021"
+      ]
+    }
+  ]
+}

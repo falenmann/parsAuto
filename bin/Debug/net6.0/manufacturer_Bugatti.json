@@ -1,0 +1,53 @@
+﻿{
+  "Make": "Bugatti",
+  "Models": [
+    {
+      "Model": "Chiron",
+      "Generations": [
+        "2016 - 2023"
+      ]
+    },
+    {
+      "Model": "Divo",
+      "Generations": [
+        "2018 - 2021"
+      ]
+    },
+    {
+      "Model": "EB 110",
+      "Generations": [
+        "1991 - 1995"
+      ]
+    },
+    {
+      "Model": "EB 112",
+      "Generations": [
+        "1993 - 1998"
+      ]
+    },
+    {
+      "Model": "EB Veyron 16.4",
+      "Generations": [
+        "2003 - 2015"
+      ]
+    },
+    {
+      "Model": "Tourbillon",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "Type 55",
+      "Generations": [
+        "1932 - 1935"
+      ]
+    },
+    {
+      "Model": "W16 Mistral",
+      "Generations": [
+        "2024 - "
+      ]
+    }
+  ]
+}

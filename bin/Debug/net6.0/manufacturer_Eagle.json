@@ -1,0 +1,36 @@
+﻿{
+  "Make": "Eagle",
+  "Models": [
+    {
+      "Model": "Premier",
+      "Generations": [
+        "1987 - 1992"
+      ]
+    },
+    {
+      "Model": "Summit",
+      "Generations": [
+        "1989 - 1996"
+      ]
+    },
+    {
+      "Model": "Talon",
+      "Generations": [
+        "1994 - 1999 II",
+        "1989 - 1994 I"
+      ]
+    },
+    {
+      "Model": "Vision",
+      "Generations": [
+        "1992 - 1997"
+      ]
+    },
+    {
+      "Model": "Vista",
+      "Generations": [
+        "1988 - 1992 I"
+      ]
+    }
+  ]
+}

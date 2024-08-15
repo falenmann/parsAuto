@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Trabant",
+  "Models": [
+    {
+      "Model": "1.1",
+      "Generations": [
+        "1990 - 1991"
+      ]
+    },
+    {
+      "Model": "600",
+      "Generations": [
+        "1962 - 1964"
+      ]
+    },
+    {
+      "Model": "P 601",
+      "Generations": [
+        "1963 - 1990"
+      ]
+    },
+    {
+      "Model": "P50",
+      "Generations": [
+        "1958 - 1962"
+      ]
+    }
+  ]
+}

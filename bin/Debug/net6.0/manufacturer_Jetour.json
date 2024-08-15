@@ -1,0 +1,73 @@
+﻿{
+  "Make": "Jetour",
+  "Models": [
+    {
+      "Model": "Dashing",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Shanhai L9",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "T2",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Traveller",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "X70",
+      "Generations": [
+        "2019 -  I Рестайлинг",
+        "2018 - 2022 I"
+      ]
+    },
+    {
+      "Model": "X70 PLUS",
+      "Generations": [
+        "2023 -  I Рестайлинг",
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "X70 PRO",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "X90",
+      "Generations": [
+        "2019 -  I"
+      ]
+    },
+    {
+      "Model": "X90 PLUS",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "X90 PRO",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "X95",
+      "Generations": [
+        "2019 - 2023"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Dayun",
+  "Models": [
+    {
+      "Model": "Pickup",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "Yuanzhi M1",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Yuehu",
+      "Generations": [
+        "2020 - "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿{
+  "Make": "KG Mobility",
+  "Models": [
+    {
+      "Model": "Korando",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Rexton",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Rexton Sports",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Tivoli",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Torres",
+      "Generations": [
+        "2023 - "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Make": "Daimler",
+  "Models": [
+    {
+      "Model": "DS420",
+      "Generations": [
+        "1968 - 1992"
+      ]
+    },
+    {
+      "Model": "Regency",
+      "Generations": [
+        "1951 - 1958"
+      ]
+    },
+    {
+      "Model": "Sovereign (XJ6)",
+      "Generations": [
+        "1969 - 1993"
+      ]
+    },
+    {
+      "Model": "SP250",
+      "Generations": [
+        "1959 - 1964"
+      ]
+    },
+    {
+      "Model": "X300",
+      "Generations": [
+        "1993 - 1997"
+      ]
+    },
+    {
+      "Model": "X308",
+      "Generations": [
+        "1997 - 2003"
+      ]
+    },
+    {
+      "Model": "X350",
+      "Generations": [
+        "2005 - 2009"
+      ]
+    },
+    {
+      "Model": "XJ40",
+      "Generations": [
+        "1986 - 1994"
+      ]
+    },
+    {
+      "Model": "XJS",
+      "Generations": [
+        "1973 - 1977"
+      ]
+    }
+  ]
+}

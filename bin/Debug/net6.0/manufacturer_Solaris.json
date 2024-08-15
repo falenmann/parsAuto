@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Solaris",
+  "Models": [
+    {
+      "Model": "HC",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "HS",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "KRS",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "KRX",
+      "Generations": [
+        "2024 - "
+      ]
+    }
+  ]
+}

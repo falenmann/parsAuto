@@ -1,0 +1,75 @@
+﻿{
+  "Make": "Tata",
+  "Models": [
+    {
+      "Model": "Aria",
+      "Generations": [
+        "2010 - 2017"
+      ]
+    },
+    {
+      "Model": "Estate",
+      "Generations": [
+        "1993 - 2000"
+      ]
+    },
+    {
+      "Model": "Indica",
+      "Generations": [
+        "2008 - 2018 II Vista",
+        "1998 - 2007 I"
+      ]
+    },
+    {
+      "Model": "Indigo",
+      "Generations": [
+        "2009 - 2016 II Manza",
+        "2002 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Nano",
+      "Generations": [
+        "2015 - 2018 I Рестайлинг",
+        "2008 - 2015 I"
+      ]
+    },
+    {
+      "Model": "Safari",
+      "Generations": [
+        "2012 - 2019 II Storme",
+        "1998 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Sierra",
+      "Generations": [
+        "1993 - 2001"
+      ]
+    },
+    {
+      "Model": "Sumo",
+      "Generations": [
+        "1996 - 2004"
+      ]
+    },
+    {
+      "Model": "Sumo Grande",
+      "Generations": [
+        "2008 - 2016 I"
+      ]
+    },
+    {
+      "Model": "Telcoline",
+      "Generations": [
+        "2005 - 2007"
+      ]
+    },
+    {
+      "Model": "Xenon",
+      "Generations": [
+        "2007 - "
+      ]
+    }
+  ]
+}

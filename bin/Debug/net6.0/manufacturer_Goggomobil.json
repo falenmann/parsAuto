@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Goggomobil",
+  "Models": [
+    {
+      "Model": "T",
+      "Generations": [
+        "1955 - 1969"
+      ]
+    },
+    {
+      "Model": "TS",
+      "Generations": [
+        "1957 - 1969"
+      ]
+    }
+  ]
+}

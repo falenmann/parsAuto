@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Caterham",
+  "Models": [
+    {
+      "Model": "21",
+      "Generations": [
+        "1994 - 2000"
+      ]
+    },
+    {
+      "Model": "CSR",
+      "Generations": [
+        "2005 - "
+      ]
+    },
+    {
+      "Model": "Seven",
+      "Generations": [
+        "1992 - "
+      ]
+    }
+  ]
+}

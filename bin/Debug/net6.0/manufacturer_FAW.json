@@ -1,0 +1,124 @@
+﻿{
+  "Make": "FAW",
+  "Models": [
+    {
+      "Model": "Bestune B70",
+      "Generations": [
+        "2024 -  I Рестайлинг",
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "Bestune B70S",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Bestune M9",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Bestune NAT",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Bestune T55",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Bestune T77",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "Bestune T90",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Bestune T99",
+      "Generations": [
+        "2022 -  I Рестайлинг",
+        "2019 - 2022 I"
+      ]
+    },
+    {
+      "Model": "Besturn B30",
+      "Generations": [
+        "2015 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Besturn B50",
+      "Generations": [
+        "2013 - 2016 I Рестайлинг",
+        "2009 - 2014 I"
+      ]
+    },
+    {
+      "Model": "Besturn B70",
+      "Generations": [
+        "2014 - 2018 II",
+        "2006 - 2014 I"
+      ]
+    },
+    {
+      "Model": "Besturn X40",
+      "Generations": [
+        "2016 - 2023 I"
+      ]
+    },
+    {
+      "Model": "Besturn X80",
+      "Generations": [
+        "2018 - 2022 I Рестайлинг",
+        "2013 - 2018 I"
+      ]
+    },
+    {
+      "Model": "D60",
+      "Generations": [
+        "2014 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Jinn",
+      "Generations": [
+        "2005 - 2009"
+      ]
+    },
+    {
+      "Model": "Oley",
+      "Generations": [
+        "2012 - 2015"
+      ]
+    },
+    {
+      "Model": "V2",
+      "Generations": [
+        "2010 - 2015"
+      ]
+    },
+    {
+      "Model": "V5",
+      "Generations": [
+        "2012 - 2017"
+      ]
+    },
+    {
+      "Model": "Vita",
+      "Generations": [
+        "2007 - 2010"
+      ]
+    }
+  ]
+}

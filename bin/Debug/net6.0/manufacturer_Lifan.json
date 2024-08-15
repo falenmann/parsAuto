@@ -1,0 +1,76 @@
+﻿{
+  "Make": "Lifan",
+  "Models": [
+    {
+      "Model": "650 EV",
+      "Generations": [
+        "2018 - 2020"
+      ]
+    },
+    {
+      "Model": "Breez (520)",
+      "Generations": [
+        "2007 - 2014"
+      ]
+    },
+    {
+      "Model": "Cebrium (720)",
+      "Generations": [
+        "2014 - 2018"
+      ]
+    },
+    {
+      "Model": "Celliya (530)",
+      "Generations": [
+        "2014 - 2018"
+      ]
+    },
+    {
+      "Model": "Murman (820)",
+      "Generations": [
+        "2015 - 2020"
+      ]
+    },
+    {
+      "Model": "Myway",
+      "Generations": [
+        "2016 - 2020"
+      ]
+    },
+    {
+      "Model": "Smily",
+      "Generations": [
+        "2014 - 2018 I Рестайлинг (330)",
+        "2008 - 2015 I (320)"
+      ]
+    },
+    {
+      "Model": "Solano",
+      "Generations": [
+        "2016 - 2018 II",
+        "2014 - 2016 I Рестайлинг (630)",
+        "2008 - 2015 I (620)"
+      ]
+    },
+    {
+      "Model": "X50",
+      "Generations": [
+        "2015 - 2019"
+      ]
+    },
+    {
+      "Model": "X60",
+      "Generations": [
+        "2016 - 2018 I Рестайлинг 2",
+        "2015 - 2016 I Рестайлинг",
+        "2011 - 2015 I"
+      ]
+    },
+    {
+      "Model": "X70",
+      "Generations": [
+        "2017 - 2020 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Spyker",
+  "Models": [
+    {
+      "Model": "C12",
+      "Generations": [
+        "2006 - 2008"
+      ]
+    },
+    {
+      "Model": "C8",
+      "Generations": [
+        "2001 - "
+      ]
+    }
+  ]
+}

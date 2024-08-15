@@ -1,0 +1,194 @@
+﻿{
+  "Make": "Daewoo",
+  "Models": [
+    {
+      "Model": "Alpheon",
+      "Generations": [
+        "2010 - 2015"
+      ]
+    },
+    {
+      "Model": "Arcadia",
+      "Generations": [
+        "1994 - 1999"
+      ]
+    },
+    {
+      "Model": "Chairman",
+      "Generations": [
+        "1999 - 2002"
+      ]
+    },
+    {
+      "Model": "Damas",
+      "Generations": [
+        "2003 - 2011 II",
+        "1991 - 2005 I"
+      ]
+    },
+    {
+      "Model": "Espero",
+      "Generations": [
+        "1990 - 1999"
+      ]
+    },
+    {
+      "Model": "Evanda",
+      "Generations": [
+        "2002 - 2005"
+      ]
+    },
+    {
+      "Model": "G2X",
+      "Generations": [
+        "2007 - 2008"
+      ]
+    },
+    {
+      "Model": "Gentra",
+      "Generations": [
+        "2013 - 2015 II",
+        "2005 - 2011 I"
+      ]
+    },
+    {
+      "Model": "Kalos",
+      "Generations": [
+        "2002 - 2007"
+      ]
+    },
+    {
+      "Model": "Korando",
+      "Generations": [
+        "1999 - 2001"
+      ]
+    },
+    {
+      "Model": "Lacetti",
+      "Generations": [
+        "2002 - 2010"
+      ]
+    },
+    {
+      "Model": "Lacetti Premiere",
+      "Generations": [
+        "2008 - 2011 J300"
+      ]
+    },
+    {
+      "Model": "Lanos",
+      "Generations": [
+        "1997 - 2008"
+      ]
+    },
+    {
+      "Model": "Leganza",
+      "Generations": [
+        "1997 - 2008"
+      ]
+    },
+    {
+      "Model": "LeMans",
+      "Generations": [
+        "1986 - 1994"
+      ]
+    },
+    {
+      "Model": "Magnus",
+      "Generations": [
+        "2000 - 2006"
+      ]
+    },
+    {
+      "Model": "Matiz",
+      "Generations": [
+        "2009 - 2016 III",
+        "2007 - 2011 II Рестайлинг",
+        "2005 - 2009 II",
+        "2000 - 2015 I Рестайлинг",
+        "1998 - 2000 I"
+      ]
+    },
+    {
+      "Model": "Matiz Creative",
+      "Generations": [
+        "2009 - 2011 M300"
+      ]
+    },
+    {
+      "Model": "Musso",
+      "Generations": [
+        "1999 - 2002"
+      ]
+    },
+    {
+      "Model": "Nexia",
+      "Generations": [
+        "2008 - 2016 I Рестайлинг",
+        "1994 - 2008 I"
+      ]
+    },
+    {
+      "Model": "Nubira",
+      "Generations": [
+        "2003 - 2005 III",
+        "1999 - 2003 II",
+        "1997 - 2000 I"
+      ]
+    },
+    {
+      "Model": "Prince",
+      "Generations": [
+        "1991 - 1999"
+      ]
+    },
+    {
+      "Model": "Racer",
+      "Generations": [
+        "1986 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Rezzo",
+      "Generations": [
+        "2000 - 2008"
+      ]
+    },
+    {
+      "Model": "Royale",
+      "Generations": [
+        "1981 - 1992"
+      ]
+    },
+    {
+      "Model": "Sens",
+      "Generations": [
+        "2002 - 2009 I"
+      ]
+    },
+    {
+      "Model": "Tacuma",
+      "Generations": [
+        "2000 - 2011"
+      ]
+    },
+    {
+      "Model": "Tico",
+      "Generations": [
+        "1991 - 2001"
+      ]
+    },
+    {
+      "Model": "Tosca",
+      "Generations": [
+        "2006 - 2011"
+      ]
+    },
+    {
+      "Model": "Winstorm",
+      "Generations": [
+        "2006 - 2011"
+      ]
+    }
+  ]
+}

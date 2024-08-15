@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Hawtai",
+  "Models": [
+    {
+      "Model": "B21",
+      "Generations": [
+        "2013 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Boliger",
+      "Generations": [
+        "2011 - 2020"
+      ]
+    },
+    {
+      "Model": "Laville",
+      "Generations": [
+        "2016 - 2020 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+﻿{
+  "Make": "McLaren",
+  "Models": [
+    {
+      "Model": "540C",
+      "Generations": [
+        "2015 - 2021 I"
+      ]
+    },
+    {
+      "Model": "570GT",
+      "Generations": [
+        "2016 - 2021 I"
+      ]
+    },
+    {
+      "Model": "570S",
+      "Generations": [
+        "2015 - 2021"
+      ]
+    },
+    {
+      "Model": "600LT",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "650S",
+      "Generations": [
+        "2014 - 2017"
+      ]
+    },
+    {
+      "Model": "675LT",
+      "Generations": [
+        "2015 - 2017"
+      ]
+    },
+    {
+      "Model": "720S",
+      "Generations": [
+        "2017 - "
+      ]
+    },
+    {
+      "Model": "750S",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "765LT",
+      "Generations": [
+        "2020 - 2023"
+      ]
+    },
+    {
+      "Model": "Artura",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "F1",
+      "Generations": [
+        "1992 - 2000"
+      ]
+    },
+    {
+      "Model": "GT",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "GTS",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "MP4-12C",
+      "Generations": [
+        "2011 - 2014"
+      ]
+    },
+    {
+      "Model": "P1",
+      "Generations": [
+        "2013 - 2015"
+      ]
+    },
+    {
+      "Model": "Senna",
+      "Generations": [
+        "2018 - 2019"
+      ]
+    }
+  ]
+}

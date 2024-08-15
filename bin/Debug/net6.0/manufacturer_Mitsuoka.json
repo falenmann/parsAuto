@@ -1,0 +1,115 @@
+﻿{
+  "Make": "Mitsuoka",
+  "Models": [
+    {
+      "Model": "Bubu Classic SSK",
+      "Generations": [
+        "1987 - 1989"
+      ]
+    },
+    {
+      "Model": "Buddy",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Galue",
+      "Generations": [
+        "2005 - 2020 III",
+        "1999 - 2004 II",
+        "1998 - 2002 I"
+      ]
+    },
+    {
+      "Model": "Galue 204",
+      "Generations": [
+        "2008 - 2014"
+      ]
+    },
+    {
+      "Model": "Himiko",
+      "Generations": [
+        "2008 - "
+      ]
+    },
+    {
+      "Model": "Le-Seyde",
+      "Generations": [
+        "2000 - 2004 II",
+        "1990 - 2001 I"
+      ]
+    },
+    {
+      "Model": "Like",
+      "Generations": [
+        "2010 - 2012"
+      ]
+    },
+    {
+      "Model": "MC-1",
+      "Generations": [
+        "1998 - 2007"
+      ]
+    },
+    {
+      "Model": "Nouera",
+      "Generations": [
+        "2008 - 2012 II (6-02)",
+        "2003 - 2008 I"
+      ]
+    },
+    {
+      "Model": "Orochi",
+      "Generations": [
+        "2006 - 2014"
+      ]
+    },
+    {
+      "Model": "Ray",
+      "Generations": [
+        "1999 - 2004 II",
+        "1996 - 1999 I"
+      ]
+    },
+    {
+      "Model": "Rock Star",
+      "Generations": [
+        "2018 - 2022 I"
+      ]
+    },
+    {
+      "Model": "Ryoga",
+      "Generations": [
+        "2001 - 2004 II (B15)",
+        "1998 - 2001 I (P11)"
+      ]
+    },
+    {
+      "Model": "Ryugi",
+      "Generations": [
+        "2015 -  I"
+      ]
+    },
+    {
+      "Model": "Viewt",
+      "Generations": [
+        "2012 -  III (K13)",
+        "2005 - 2012 II (K12)",
+        "1993 - 2003 I (K11)"
+      ]
+    },
+    {
+      "Model": "Yuga",
+      "Generations": [
+        "2000 - 2002"
+      ]
+    },
+    {
+      "Model": "Zero 1",
+      "Generations": [
+        "1996 - 2000"
+      ]
+    }
+  ]
+}

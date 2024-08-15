@@ -1,0 +1,393 @@
+﻿{
+  "Make": "Suzuki",
+  "Models": [
+    {
+      "Model": "Across",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Aerio",
+      "Generations": [
+        "2001 - 2007"
+      ]
+    },
+    {
+      "Model": "Alto",
+      "Generations": [
+        "2014 -  VIII (HA36)",
+        "2009 - 2014 VII (HA25)",
+        "2004 - 2009 VI (HA24)",
+        "1998 - 2012 V",
+        "1994 - 1998 IV",
+        "1988 - 1994 III",
+        "1984 - 1993 II",
+        "1979 - 1984 I"
+      ]
+    },
+    {
+      "Model": "Alto Lapin",
+      "Generations": [
+        "2015 -  III",
+        "2008 - 2015 II",
+        "2002 - 2008 I"
+      ]
+    },
+    {
+      "Model": "APV",
+      "Generations": [
+        "2004 -  I"
+      ]
+    },
+    {
+      "Model": "Baleno",
+      "Generations": [
+        "2022 -  III",
+        "2015 - 2022 II",
+        "1995 - 2002 I"
+      ]
+    },
+    {
+      "Model": "Cappuccino",
+      "Generations": [
+        "1990 - 1997"
+      ]
+    },
+    {
+      "Model": "Cara",
+      "Generations": [
+        "1993 - 1995"
+      ]
+    },
+    {
+      "Model": "Carry",
+      "Generations": [
+        "1999 - 2005 DA32",
+        "1991 - 1998 IX",
+        "1985 - 1991 VIII",
+        "1979 - 1985 VII"
+      ]
+    },
+    {
+      "Model": "Celerio",
+      "Generations": [
+        "2014 - "
+      ]
+    },
+    {
+      "Model": "Cervo",
+      "Generations": [
+        "2006 - 2011 V",
+        "1997 - 1998 IV Рестайлинг 2",
+        "1995 - 1997 IV Рестайлинг",
+        "1990 - 1995 IV",
+        "1988 - 1990 III",
+        "1977 - 1982 I"
+      ]
+    },
+    {
+      "Model": "Ciaz",
+      "Generations": [
+        "2018 -  I Рестайлинг",
+        "2014 - 2019 I"
+      ]
+    },
+    {
+      "Model": "Cultus",
+      "Generations": [
+        "1998 - 2002 III Рестайлинг",
+        "1995 - 1998 III",
+        "1988 - 1998 II",
+        "1983 - 1988 I"
+      ]
+    },
+    {
+      "Model": "DZire",
+      "Generations": [
+        "2020 -  III Рестайлинг"
+      ]
+    },
+    {
+      "Model": "Eeco",
+      "Generations": [
+        "2010 - "
+      ]
+    },
+    {
+      "Model": "Equator",
+      "Generations": [
+        "2008 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Ertiga",
+      "Generations": [
+        "2022 -  II Рестайлинг",
+        "2018 - 2022 II",
+        "2012 - 2018 I"
+      ]
+    },
+    {
+      "Model": "Escudo",
+      "Generations": [
+        "2015 -  IV",
+        "2012 - 2017 III Рестайлинг",
+        "2005 - 2012 III",
+        "1997 - 2005 II",
+        "1988 - 1998 I"
+      ]
+    },
+    {
+      "Model": "Esteem",
+      "Generations": [
+        "1995 - 2004"
+      ]
+    },
+    {
+      "Model": "Every",
+      "Generations": [
+        "2015 -  VI",
+        "2005 - 2015 V",
+        "1999 - 2005 IV",
+        "1995 - 1998 III Рестайлинг",
+        "1991 - 1995 III",
+        "1985 - 1990 II"
+      ]
+    },
+    {
+      "Model": "Forenza",
+      "Generations": [
+        "2003 - 2008"
+      ]
+    },
+    {
+      "Model": "Fronte",
+      "Generations": [
+        "1986 - 1988 CB72"
+      ]
+    },
+    {
+      "Model": "Fronx",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Grand Vitara",
+      "Generations": [
+        "2022 -  IV",
+        "2012 - 2016 III Рестайлинг 2",
+        "2008 - 2012 III Рестайлинг",
+        "2005 - 2008 III",
+        "2000 - 2006 II Рестайлинг",
+        "1997 - 2001 II"
+      ]
+    },
+    {
+      "Model": "Hustler",
+      "Generations": [
+        "2019 -  II",
+        "2014 - 2019 I"
+      ]
+    },
+    {
+      "Model": "Ignis",
+      "Generations": [
+        "2020 -  III Рестайлинг",
+        "2016 - 2020 III",
+        "2003 - 2008 II (HR)",
+        "2000 - 2006 I (HT)"
+      ]
+    },
+    {
+      "Model": "Jimny",
+      "Generations": [
+        "2018 -  IV",
+        "2012 - 2019 III Рестайлинг 2",
+        "2005 - 2012 III Рестайлинг 1",
+        "1998 - 2005 III",
+        "1981 - 1998 II",
+        "1970 - 1981 I"
+      ]
+    },
+    {
+      "Model": "Kei",
+      "Generations": [
+        "1998 - 2009"
+      ]
+    },
+    {
+      "Model": "Kizashi",
+      "Generations": [
+        "2009 - 2014"
+      ]
+    },
+    {
+      "Model": "Landy",
+      "Generations": [
+        "2016 -  III",
+        "2014 - 2016 II Рестайлинг",
+        "2010 - 2014 II",
+        "2007 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Liana",
+      "Generations": [
+        "2004 - 2008 I Рестайлинг",
+        "2001 - 2006 I"
+      ]
+    },
+    {
+      "Model": "MR Wagon",
+      "Generations": [
+        "2011 - 2016 III",
+        "2005 - 2011 II",
+        "2001 - 2005 I"
+      ]
+    },
+    {
+      "Model": "Palette",
+      "Generations": [
+        "2008 - 2013"
+      ]
+    },
+    {
+      "Model": "Reno",
+      "Generations": [
+        "2004 - 2008"
+      ]
+    },
+    {
+      "Model": "S-Presso",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "Samurai",
+      "Generations": [
+        "1981 - 2003"
+      ]
+    },
+    {
+      "Model": "Sidekick",
+      "Generations": [
+        "1988 - 1998 I"
+      ]
+    },
+    {
+      "Model": "Solio",
+      "Generations": [
+        "2020 -  IV",
+        "2015 - 2020 III",
+        "2013 - 2015 II Рестайлинг",
+        "2011 - 2013 II",
+        "2005 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Spacia",
+      "Generations": [
+        "2017 -  II",
+        "2015 - 2017 I Рестайлинг",
+        "2013 - 2015 I"
+      ]
+    },
+    {
+      "Model": "Splash",
+      "Generations": [
+        "2012 - 2015 I Рестайлинг",
+        "2008 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Swace",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Swift",
+      "Generations": [
+        "2023 -  VI",
+        "2016 -  V",
+        "2013 - 2017 IV Рестайлинг",
+        "2010 - 2013 IV",
+        "2004 - 2011 III",
+        "2000 - 2004 I (Japan)",
+        "1995 - 2003 II Рестайлинг",
+        "1989 - 1995 II",
+        "1983 - 1989 I"
+      ]
+    },
+    {
+      "Model": "SX4",
+      "Generations": [
+        "2022 -  III (S-Cross)",
+        "2016 - 2022 II (S-Cross) Рестайлинг",
+        "2013 - 2016 II (S-Cross)",
+        "2009 - 2014 I (Classic) Рестайлинг",
+        "2006 - 2009 I (Classic)"
+      ]
+    },
+    {
+      "Model": "Twin",
+      "Generations": [
+        "2003 - 2005"
+      ]
+    },
+    {
+      "Model": "Verona",
+      "Generations": [
+        "2003 - 2006"
+      ]
+    },
+    {
+      "Model": "Vitara",
+      "Generations": [
+        "2018 -  II Рестайлинг",
+        "2014 - 2019 II",
+        "1988 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Wagon R",
+      "Generations": [
+        "2017 -  VI",
+        "2014 - 2017 V Рестайлинг",
+        "2012 - 2014 V",
+        "2008 - 2012 IV",
+        "2003 - 2008 III",
+        "1998 - 2003 II",
+        "1993 - 1998 I"
+      ]
+    },
+    {
+      "Model": "Wagon R+",
+      "Generations": [
+        "2000 - 2008 II",
+        "1997 - 2000 I"
+      ]
+    },
+    {
+      "Model": "X-90",
+      "Generations": [
+        "1995 - 2000"
+      ]
+    },
+    {
+      "Model": "Xbee",
+      "Generations": [
+        "2017 -  I"
+      ]
+    },
+    {
+      "Model": "XL7",
+      "Generations": [
+        "2006 - 2009"
+      ]
+    }
+  ]
+}

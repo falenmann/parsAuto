@@ -1,0 +1,94 @@
+﻿{
+  "Make": "Haima",
+  "Models": [
+    {
+      "Model": "2",
+      "Generations": [
+        "2009 - 2015 I"
+      ]
+    },
+    {
+      "Model": "3",
+      "Generations": [
+        "2010 - 2013"
+      ]
+    },
+    {
+      "Model": "6P",
+      "Generations": [
+        "2021 - 2022"
+      ]
+    },
+    {
+      "Model": "7",
+      "Generations": [
+        "2013 - 2016"
+      ]
+    },
+    {
+      "Model": "7X",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "8S",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "Aishang EV",
+      "Generations": [
+        "2017 - 2022"
+      ]
+    },
+    {
+      "Model": "E3",
+      "Generations": [
+        "2017 - 2019 I Рестайлинг",
+        "2016 - 2016 I"
+      ]
+    },
+    {
+      "Model": "Family",
+      "Generations": [
+        "2010 - 2012 II Рестайлинг",
+        "2006 - 2010 II",
+        "2003 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Family F7",
+      "Generations": [
+        "2016 - 2018 I"
+      ]
+    },
+    {
+      "Model": "Freema",
+      "Generations": [
+        "2010 - 2017 II",
+        "2006 - 2010 I"
+      ]
+    },
+    {
+      "Model": "M3",
+      "Generations": [
+        "2014 - 2017"
+      ]
+    },
+    {
+      "Model": "S5",
+      "Generations": [
+        "2018 - 2019 II",
+        "2014 - 2017 I"
+      ]
+    },
+    {
+      "Model": "S5 Young",
+      "Generations": [
+        "2017 - 2018"
+      ]
+    }
+  ]
+}

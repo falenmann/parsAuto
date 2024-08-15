@@ -1,0 +1,29 @@
+﻿{
+  "Make": "KAIYI",
+  "Models": [
+    {
+      "Model": "E5",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "X3",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "X3 Pro",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "X7 Kunlun",
+      "Generations": [
+        "2023 - "
+      ]
+    }
+  ]
+}

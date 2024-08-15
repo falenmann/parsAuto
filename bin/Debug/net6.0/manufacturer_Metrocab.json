@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Metrocab",
+  "Models": [
+    {
+      "Model": "Metrocab I",
+      "Generations": [
+        "1987 - 2000"
+      ]
+    },
+    {
+      "Model": "Metrocab II (TTT)",
+      "Generations": [
+        "2001 - 2006"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Make": "Zotye",
+  "Models": [
+    {
+      "Model": "Coupa",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "Domy X7",
+      "Generations": [
+        "2016 - 2021"
+      ]
+    },
+    {
+      "Model": "E200",
+      "Generations": [
+        "2016 - 2021"
+      ]
+    },
+    {
+      "Model": "Nomad (RX6400)",
+      "Generations": [
+        "2005 - 2016"
+      ]
+    },
+    {
+      "Model": "SR9",
+      "Generations": [
+        "2016 - 2019 I"
+      ]
+    },
+    {
+      "Model": "T300",
+      "Generations": [
+        "2017 - "
+      ]
+    },
+    {
+      "Model": "T600",
+      "Generations": [
+        "2013 - 2021"
+      ]
+    },
+    {
+      "Model": "Z100",
+      "Generations": [
+        "2013 - 2017"
+      ]
+    },
+    {
+      "Model": "Z300",
+      "Generations": [
+        "2012 - 2017"
+      ]
+    }
+  ]
+}

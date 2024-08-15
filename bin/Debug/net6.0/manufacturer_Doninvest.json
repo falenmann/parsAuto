@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Doninvest",
+  "Models": [
+    {
+      "Model": "Assol",
+      "Generations": [
+        "1998 - 2002"
+      ]
+    },
+    {
+      "Model": "Kondor",
+      "Generations": [
+        "1998 - 2002"
+      ]
+    },
+    {
+      "Model": "Orion",
+      "Generations": [
+        "1998 - 2002"
+      ]
+    },
+    {
+      "Model": "Orion M",
+      "Generations": [
+        "1999 - 2002"
+      ]
+    }
+  ]
+}

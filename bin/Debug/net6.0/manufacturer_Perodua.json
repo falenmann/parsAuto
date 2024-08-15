@@ -1,0 +1,53 @@
+﻿{
+  "Make": "Perodua",
+  "Models": [
+    {
+      "Model": "Alza",
+      "Generations": [
+        "2009 - "
+      ]
+    },
+    {
+      "Model": "Kancil",
+      "Generations": [
+        "1994 - 2009"
+      ]
+    },
+    {
+      "Model": "Kelisa",
+      "Generations": [
+        "2001 - 2007"
+      ]
+    },
+    {
+      "Model": "Kembara",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Kenari",
+      "Generations": [
+        "2000 - 2008"
+      ]
+    },
+    {
+      "Model": "MyVi",
+      "Generations": [
+        "2005 - 2011"
+      ]
+    },
+    {
+      "Model": "Nautica",
+      "Generations": [
+        "2008 - 2010"
+      ]
+    },
+    {
+      "Model": "Viva",
+      "Generations": [
+        "2007 - 2014"
+      ]
+    }
+  ]
+}

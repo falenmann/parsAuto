@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Karma",
+  "Models": [
+    {
+      "Model": "Revero",
+      "Generations": [
+        "2016 - 2020"
+      ]
+    },
+    {
+      "Model": "Revero GT",
+      "Generations": [
+        "2020 - "
+      ]
+    }
+  ]
+}

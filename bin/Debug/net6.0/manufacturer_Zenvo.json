@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Zenvo",
+  "Models": [
+    {
+      "Model": "ST1",
+      "Generations": [
+        "2009 - 2010"
+      ]
+    },
+    {
+      "Model": "TSR-S",
+      "Generations": [
+        "2018 - "
+      ]
+    }
+  ]
+}

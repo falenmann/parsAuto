@@ -1,0 +1,101 @@
+﻿{
+  "Make": "Dacia",
+  "Models": [
+    {
+      "Model": "1300",
+      "Generations": [
+        "1969 - 1978"
+      ]
+    },
+    {
+      "Model": "1310",
+      "Generations": [
+        "1979 - 2004"
+      ]
+    },
+    {
+      "Model": "1410",
+      "Generations": [
+        "1984 - 2004"
+      ]
+    },
+    {
+      "Model": "Dokker",
+      "Generations": [
+        "2017 - 2021 I Рестайлинг",
+        "2012 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Duster",
+      "Generations": [
+        "2023 -  III",
+        "2021 -  II Рестайлинг",
+        "2017 - 2021 II",
+        "2013 - 2017 I Рестайлинг",
+        "2010 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Jogger",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Lodgy",
+      "Generations": [
+        "2017 - 2022 I Рестайлинг",
+        "2012 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Logan",
+      "Generations": [
+        "2020 -  III",
+        "2016 - 2020 II Рестайлинг",
+        "2012 - 2016 II",
+        "2004 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Nova",
+      "Generations": [
+        "1995 - 2000"
+      ]
+    },
+    {
+      "Model": "Pick-Up",
+      "Generations": [
+        "1975 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Sandero",
+      "Generations": [
+        "2020 -  III",
+        "2016 - 2020 II Рестайлинг",
+        "2012 - 2016 II",
+        "2007 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Solenza",
+      "Generations": [
+        "2003 - 2005"
+      ]
+    },
+    {
+      "Model": "Spring",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "SuperNova",
+      "Generations": [
+        "2000 - 2003 I"
+      ]
+    }
+  ]
+}

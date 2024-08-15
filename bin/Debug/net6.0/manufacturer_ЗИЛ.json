@@ -1,0 +1,29 @@
+﻿{
+  "Make": "ЗИЛ",
+  "Models": [
+    {
+      "Model": "111",
+      "Generations": [
+        "1959 - 1967"
+      ]
+    },
+    {
+      "Model": "114",
+      "Generations": [
+        "1967 - 1978"
+      ]
+    },
+    {
+      "Model": "117",
+      "Generations": [
+        "1971 - 1978"
+      ]
+    },
+    {
+      "Model": "4104",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

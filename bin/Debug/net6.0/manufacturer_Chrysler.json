@@ -1,0 +1,274 @@
+﻿{
+  "Make": "Chrysler",
+  "Models": [
+    {
+      "Model": "180",
+      "Generations": [
+        "1970 - 1982"
+      ]
+    },
+    {
+      "Model": "200",
+      "Generations": [
+        "2014 - 2017 II",
+        "2010 - 2014 I"
+      ]
+    },
+    {
+      "Model": "300",
+      "Generations": [
+        "1969 - 1971"
+      ]
+    },
+    {
+      "Model": "300 Letter Series",
+      "Generations": [
+        "1957 - 1957 III (300C)",
+        "1955 - 1955 I (C-300)"
+      ]
+    },
+    {
+      "Model": "300C",
+      "Generations": [
+        "2015 - 2023 II Рестайлинг",
+        "2011 - 2015 II",
+        "2004 - 2011 I"
+      ]
+    },
+    {
+      "Model": "300M",
+      "Generations": [
+        "1998 - 2004"
+      ]
+    },
+    {
+      "Model": "Aspen",
+      "Generations": [
+        "2006 - 2008"
+      ]
+    },
+    {
+      "Model": "Cirrus",
+      "Generations": [
+        "1994 - 2000"
+      ]
+    },
+    {
+      "Model": "Concorde",
+      "Generations": [
+        "1997 - 2004 II",
+        "1992 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Cordoba",
+      "Generations": [
+        "1981 - 1983 II",
+        "1975 - 1979 I"
+      ]
+    },
+    {
+      "Model": "Crossfire",
+      "Generations": [
+        "2003 - 2007"
+      ]
+    },
+    {
+      "Model": "Daytona",
+      "Generations": [
+        "1986 - 1993"
+      ]
+    },
+    {
+      "Model": "Dynasty",
+      "Generations": [
+        "1988 - 1993"
+      ]
+    },
+    {
+      "Model": "ES",
+      "Generations": [
+        "1988 - 1991"
+      ]
+    },
+    {
+      "Model": "Fifth Avenue",
+      "Generations": [
+        "1990 - 1993 II",
+        "1982 - 1989 I"
+      ]
+    },
+    {
+      "Model": "Imperial",
+      "Generations": [
+        "1990 - 1993 VII",
+        "1957 - 1975 LeBaron",
+        "1949 - 1954 VI",
+        "1940 - 1948 V",
+        "1937 - 1939 IV",
+        "1934 - 1936 III",
+        "1931 - 1933 II",
+        "1926 - 1930 I"
+      ]
+    },
+    {
+      "Model": "Imperial Crown",
+      "Generations": [
+        "1974 - 1975 V",
+        "1963 - 1965 ii"
+      ]
+    },
+    {
+      "Model": "Intrepid",
+      "Generations": [
+        "1998 - 2004 II",
+        "1993 - 1997 I"
+      ]
+    },
+    {
+      "Model": "LeBaron",
+      "Generations": [
+        "1992 - 1995 III Рестайлинг",
+        "1986 - 1995 III",
+        "1981 - 1989 II",
+        "1977 - 1981 I"
+      ]
+    },
+    {
+      "Model": "LHS",
+      "Generations": [
+        "1998 - 2001 II",
+        "1993 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Nassau",
+      "Generations": [
+        "2007 - 2007"
+      ]
+    },
+    {
+      "Model": "Neon",
+      "Generations": [
+        "1999 - 2004 II",
+        "1994 - 1999 I"
+      ]
+    },
+    {
+      "Model": "New Yorker",
+      "Generations": [
+        "1994 - 1996 XIV",
+        "1988 - 1993 XIII",
+        "1983 - 1988 XII",
+        "1965 - 1968 VII",
+        "1960 - 1964 VI",
+        "1957 - 1959 V",
+        "1955 - 1956 IV",
+        "1949 - 1954 III"
+      ]
+    },
+    {
+      "Model": "Newport",
+      "Generations": [
+        "1973 - 1978 VI",
+        "1968 - 1973 V"
+      ]
+    },
+    {
+      "Model": "Pacifica",
+      "Generations": [
+        "2020 -  RU Рестайлинг",
+        "2016 - 2020 RU",
+        "2003 - 2008 CS"
+      ]
+    },
+    {
+      "Model": "Prowler",
+      "Generations": [
+        "2001 - 2002"
+      ]
+    },
+    {
+      "Model": "PT Cruiser",
+      "Generations": [
+        "2000 - 2010"
+      ]
+    },
+    {
+      "Model": "Saratoga",
+      "Generations": [
+        "1989 - 1995"
+      ]
+    },
+    {
+      "Model": "Sebring",
+      "Generations": [
+        "2006 - 2010 III",
+        "2003 - 2006 II Рестайлинг",
+        "2000 - 2003 II",
+        "1994 - 2000 I"
+      ]
+    },
+    {
+      "Model": "Six",
+      "Generations": [
+        "1924 - 1935"
+      ]
+    },
+    {
+      "Model": "Stratus",
+      "Generations": [
+        "1994 - 2000"
+      ]
+    },
+    {
+      "Model": "TC by Maserati",
+      "Generations": [
+        "1989 - 1991"
+      ]
+    },
+    {
+      "Model": "Town & Country",
+      "Generations": [
+        "2010 - 2016 V Рестайлинг",
+        "2007 - 2010 V",
+        "2004 - 2007 IV Рестайлинг",
+        "2000 - 2005 IV",
+        "1995 - 2000 III",
+        "1990 - 1995 II",
+        "1941 - 1988 (1941–1988)"
+      ]
+    },
+    {
+      "Model": "Viper",
+      "Generations": [
+        "1992 - 2002"
+      ]
+    },
+    {
+      "Model": "Vision",
+      "Generations": [
+        "1992 - 1997"
+      ]
+    },
+    {
+      "Model": "Voyager",
+      "Generations": [
+        "2019 -  VI",
+        "2011 - 2016 V Рестайлинг",
+        "2007 - 2010 V",
+        "2004 - 2008 IV Рестайлинг",
+        "2000 - 2004 IV",
+        "1995 - 2001 III",
+        "1991 - 1995 II",
+        "1984 - 1990 I"
+      ]
+    },
+    {
+      "Model": "Windsor",
+      "Generations": [
+        "1953 - 1954"
+      ]
+    }
+  ]
+}

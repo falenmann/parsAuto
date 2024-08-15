@@ -1,0 +1,43 @@
+﻿{
+  "Make": "GAC",
+  "Models": [
+    {
+      "Model": "GN8",
+      "Generations": [
+        "2020 - 2023 I"
+      ]
+    },
+    {
+      "Model": "GS3",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "GS5",
+      "Generations": [
+        "2020 -  I"
+      ]
+    },
+    {
+      "Model": "GS8",
+      "Generations": [
+        "2021 -  II",
+        "2016 - 2023 I"
+      ]
+    },
+    {
+      "Model": "iA5",
+      "Generations": [
+        "2022 -  I Рестайлинг",
+        "2019 - 2022 I"
+      ]
+    },
+    {
+      "Model": "M8",
+      "Generations": [
+        "2023 - "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿{
+  "Make": "Packard",
+  "Models": [
+    {
+      "Model": "200/250",
+      "Generations": [
+        "1951 - 1952 I"
+      ]
+    },
+    {
+      "Model": "Clipper",
+      "Generations": [
+        "1941 - 1947"
+      ]
+    },
+    {
+      "Model": "Custom Eight",
+      "Generations": [
+        "1948 - 1950"
+      ]
+    },
+    {
+      "Model": "One-Twenty",
+      "Generations": [
+        "1935 - 1941"
+      ]
+    },
+    {
+      "Model": "Six",
+      "Generations": [
+        "1912 - 1939"
+      ]
+    },
+    {
+      "Model": "Super Eight",
+      "Generations": [
+        "1933 - 1939"
+      ]
+    },
+    {
+      "Model": "Twelve",
+      "Generations": [
+        "1932 - 1939"
+      ]
+    }
+  ]
+}

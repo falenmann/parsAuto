@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Pagani",
+  "Models": [
+    {
+      "Model": "Huayra",
+      "Generations": [
+        "2012 - "
+      ]
+    },
+    {
+      "Model": "Utopia",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Zonda",
+      "Generations": [
+        "1999 - 2013"
+      ]
+    }
+  ]
+}

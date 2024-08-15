@@ -1,0 +1,171 @@
+﻿{
+  "Make": "Lincoln",
+  "Models": [
+    {
+      "Model": "Aviator",
+      "Generations": [
+        "2024 -  II Рестайлинг",
+        "2019 -  II",
+        "2002 - 2005 I"
+      ]
+    },
+    {
+      "Model": "Blackwood",
+      "Generations": [
+        "2001 - 2002"
+      ]
+    },
+    {
+      "Model": "Capri",
+      "Generations": [
+        "1952 - 1959"
+      ]
+    },
+    {
+      "Model": "Continental",
+      "Generations": [
+        "2016 - 2020 X",
+        "1995 - 2002 IX",
+        "1988 - 1994 VIII",
+        "1982 - 1987 VII",
+        "1980 - 1983 VI",
+        "1970 - 1979 V",
+        "1961 - 1969 IV",
+        "1959 - 1960 III (Mark V)"
+      ]
+    },
+    {
+      "Model": "Corsair",
+      "Generations": [
+        "2023 -  I Рестайлинг (China Market)",
+        "2019 -  I"
+      ]
+    },
+    {
+      "Model": "LS",
+      "Generations": [
+        "2003 - 2006 I Рестайлинг",
+        "1999 - 2002 I"
+      ]
+    },
+    {
+      "Model": "Mark III",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Mark IV",
+      "Generations": [
+        "1972 - 1976"
+      ]
+    },
+    {
+      "Model": "Mark LT",
+      "Generations": [
+        "2009 - 2014 II",
+        "2005 - 2009 I"
+      ]
+    },
+    {
+      "Model": "Mark VII",
+      "Generations": [
+        "1984 - 1992"
+      ]
+    },
+    {
+      "Model": "Mark VIII",
+      "Generations": [
+        "1992 - 1998"
+      ]
+    },
+    {
+      "Model": "MKC",
+      "Generations": [
+        "2018 - 2019 I Рестайлинг",
+        "2014 - 2018 I"
+      ]
+    },
+    {
+      "Model": "MKS",
+      "Generations": [
+        "2012 - 2016 I Рестайлинг",
+        "2008 - 2012 I"
+      ]
+    },
+    {
+      "Model": "MKT",
+      "Generations": [
+        "2012 - 2019 I Рестайлинг",
+        "2009 - 2012 I"
+      ]
+    },
+    {
+      "Model": "MKX",
+      "Generations": [
+        "2015 - 2018 II",
+        "2010 - 2015 I Рестайлинг",
+        "2006 - 2010 I"
+      ]
+    },
+    {
+      "Model": "MKZ",
+      "Generations": [
+        "2016 - 2020 II Рестайлинг",
+        "2012 - 2016 II",
+        "2009 - 2012 I (Zephyr) Рестайлинг",
+        "2006 - 2009 I (Zephyr)"
+      ]
+    },
+    {
+      "Model": "Nautilus",
+      "Generations": [
+        "2023 -  II",
+        "2018 - 2023 I"
+      ]
+    },
+    {
+      "Model": "Navigator",
+      "Generations": [
+        "2017 -  IV",
+        "2014 - 2017 III Рестайлинг",
+        "2006 - 2014 III",
+        "2002 - 2006 II",
+        "1997 - 2002 I"
+      ]
+    },
+    {
+      "Model": "Premiere",
+      "Generations": [
+        "1955 - 1960"
+      ]
+    },
+    {
+      "Model": "Town Car",
+      "Generations": [
+        "2003 - 2011 III Рестайлинг",
+        "1997 - 2003 III",
+        "1989 - 1997 II",
+        "1980 - 1989 I"
+      ]
+    },
+    {
+      "Model": "Versailles",
+      "Generations": [
+        "1977 - 1980"
+      ]
+    },
+    {
+      "Model": "Z",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Zephyr",
+      "Generations": [
+        "1936 - 1942"
+      ]
+    }
+  ]
+}

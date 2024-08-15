@@ -1,0 +1,253 @@
+﻿{
+  "Make": "Alfa Romeo",
+  "Models": [
+    {
+      "Model": "105/115",
+      "Generations": [
+        "1965 - 1977"
+      ]
+    },
+    {
+      "Model": "145",
+      "Generations": [
+        "1999 - 2001 I Рестайлинг",
+        "1994 - 1999 I"
+      ]
+    },
+    {
+      "Model": "146",
+      "Generations": [
+        "1994 - 2001"
+      ]
+    },
+    {
+      "Model": "147",
+      "Generations": [
+        "2004 - 2010 I Рестайлинг",
+        "2000 - 2004 I"
+      ]
+    },
+    {
+      "Model": "155",
+      "Generations": [
+        "1995 - 1997 I Рестайлинг",
+        "1992 - 1995 I"
+      ]
+    },
+    {
+      "Model": "156",
+      "Generations": [
+        "2003 - 2007 I Рестайлинг 2",
+        "2002 - 2003 I Рестайлинг 1",
+        "1997 - 2002 I"
+      ]
+    },
+    {
+      "Model": "159",
+      "Generations": [
+        "2005 - 2011"
+      ]
+    },
+    {
+      "Model": "164",
+      "Generations": [
+        "1992 - 1998 I Рестайлинг",
+        "1987 - 1992 I"
+      ]
+    },
+    {
+      "Model": "166",
+      "Generations": [
+        "2003 - 2007 I Рестайлинг",
+        "1998 - 2003 I"
+      ]
+    },
+    {
+      "Model": "1900",
+      "Generations": [
+        "1950 - 1959"
+      ]
+    },
+    {
+      "Model": "2600",
+      "Generations": [
+        "1961 - 1968 I"
+      ]
+    },
+    {
+      "Model": "33",
+      "Generations": [
+        "1990 - 1994 II",
+        "1986 - 1989 I Рестайлинг",
+        "1983 - 1986 I"
+      ]
+    },
+    {
+      "Model": "33 Stradale",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "4C",
+      "Generations": [
+        "2013 - 2016"
+      ]
+    },
+    {
+      "Model": "6",
+      "Generations": [
+        "1979 - 1988"
+      ]
+    },
+    {
+      "Model": "6C",
+      "Generations": [
+        "1927 - 1933"
+      ]
+    },
+    {
+      "Model": "75",
+      "Generations": [
+        "1988 - 1992 I Рестайлинг",
+        "1985 - 1992 I"
+      ]
+    },
+    {
+      "Model": "8C Competizione",
+      "Generations": [
+        "2007 - 2010"
+      ]
+    },
+    {
+      "Model": "90",
+      "Generations": [
+        "1984 - 1987"
+      ]
+    },
+    {
+      "Model": "Alfasud",
+      "Generations": [
+        "1971 - 1983"
+      ]
+    },
+    {
+      "Model": "Alfetta",
+      "Generations": [
+        "1972 - 1987"
+      ]
+    },
+    {
+      "Model": "Arna",
+      "Generations": [
+        "1983 - 1987"
+      ]
+    },
+    {
+      "Model": "Brera",
+      "Generations": [
+        "2006 - 2010"
+      ]
+    },
+    {
+      "Model": "Disco Volante",
+      "Generations": [
+        "2013 - 2013"
+      ]
+    },
+    {
+      "Model": "Giulia",
+      "Generations": [
+        "2023 -  II (952) Рестайлинг 2",
+        "2020 - 2022 II (952) Рестайлинг",
+        "2015 - 2023 II (952)",
+        "1962 - 1978 I (105)"
+      ]
+    },
+    {
+      "Model": "Giulietta",
+      "Generations": [
+        "2016 - 2020 III Рестайлинг",
+        "2010 - 2016 III",
+        "1977 - 1985 II",
+        "1954 - 1963 I"
+      ]
+    },
+    {
+      "Model": "GT",
+      "Generations": [
+        "2003 - 2010"
+      ]
+    },
+    {
+      "Model": "GTA Coupe",
+      "Generations": [
+        "1965 - 1975"
+      ]
+    },
+    {
+      "Model": "GTV",
+      "Generations": [
+        "1995 - 2006"
+      ]
+    },
+    {
+      "Model": "Junior",
+      "Generations": [
+        "2024 - "
+      ]
+    },
+    {
+      "Model": "MiTo",
+      "Generations": [
+        "2016 - 2018 I Рестайлинг 2",
+        "2013 - 2016 I Рестайлинг",
+        "2008 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Montreal",
+      "Generations": [
+        "1970 - 1979"
+      ]
+    },
+    {
+      "Model": "RZ",
+      "Generations": [
+        "1992 - 1994"
+      ]
+    },
+    {
+      "Model": "Spider",
+      "Generations": [
+        "2006 - 2010 III",
+        "1995 - 2005 II",
+        "1966 - 1993 I"
+      ]
+    },
+    {
+      "Model": "Sprint",
+      "Generations": [
+        "1983 - 1989"
+      ]
+    },
+    {
+      "Model": "Stelvio",
+      "Generations": [
+        "2016 - "
+      ]
+    },
+    {
+      "Model": "SZ",
+      "Generations": [
+        "1988 - 1994"
+      ]
+    },
+    {
+      "Model": "Tonale",
+      "Generations": [
+        "2022 - "
+      ]
+    }
+  ]
+}

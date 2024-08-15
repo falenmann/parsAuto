@@ -1,0 +1,41 @@
+﻿{
+  "Make": "VinFast",
+  "Models": [
+    {
+      "Model": "LUX A2.0",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "LUX SA2.0",
+      "Generations": [
+        "2019 - 2022"
+      ]
+    },
+    {
+      "Model": "VF6",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "VF7",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "VF8",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "VF9",
+      "Generations": [
+        "2021 - "
+      ]
+    }
+  ]
+}

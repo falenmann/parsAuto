@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Hindustan",
+  "Models": [
+    {
+      "Model": "Ambassador",
+      "Generations": [
+        "1979 - 2014"
+      ]
+    },
+    {
+      "Model": "Contessa",
+      "Generations": [
+        "1984 - 2002"
+      ]
+    }
+  ]
+}

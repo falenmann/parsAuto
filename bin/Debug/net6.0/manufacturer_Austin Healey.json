@@ -1,0 +1,20 @@
+﻿{
+  "Make": "Austin Healey",
+  "Models": [
+    {
+      "Model": "100",
+      "Generations": [
+        "1956 - 1959 100 (BN4/BN6)"
+      ]
+    },
+    {
+      "Model": "3000",
+      "Generations": [
+        "1964 - 1967 III (BJ8)",
+        "1962 - 1964 II (BJ7)",
+        "1961 - 1962 II (BN7, BT7)",
+        "1959 - 1961 I (BN7, BT7)"
+      ]
+    }
+  ]
+}

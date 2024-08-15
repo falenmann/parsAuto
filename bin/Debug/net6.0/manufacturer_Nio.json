@@ -1,0 +1,55 @@
+﻿{
+  "Make": "Nio",
+  "Models": [
+    {
+      "Model": "EC6",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "EC7",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "ES6",
+      "Generations": [
+        "2023 -  II",
+        "2019 - 2023 I"
+      ]
+    },
+    {
+      "Model": "ES7",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "ES8",
+      "Generations": [
+        "2023 -  II",
+        "2018 - 2022 I"
+      ]
+    },
+    {
+      "Model": "ET5",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "ET7",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "ET9",
+      "Generations": [
+        "2024 - "
+      ]
+    }
+  ]
+}

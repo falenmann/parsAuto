@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Dadi",
+  "Models": [
+    {
+      "Model": "City Leading",
+      "Generations": [
+        "2004 - 2007"
+      ]
+    },
+    {
+      "Model": "Shuttle",
+      "Generations": [
+        "2005 - 2007"
+      ]
+    },
+    {
+      "Model": "Smoothing",
+      "Generations": [
+        "2006 - 2007"
+      ]
+    }
+  ]
+}

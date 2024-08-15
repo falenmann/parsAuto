@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Vector",
+  "Models": [
+    {
+      "Model": "M12",
+      "Generations": [
+        "1996 - 2000"
+      ]
+    },
+    {
+      "Model": "W8 Twin Turbo",
+      "Generations": [
+        "1989 - 1994"
+      ]
+    }
+  ]
+}

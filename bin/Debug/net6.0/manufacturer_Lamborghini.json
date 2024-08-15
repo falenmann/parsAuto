@@ -1,0 +1,153 @@
+﻿{
+  "Make": "Lamborghini",
+  "Models": [
+    {
+      "Model": "350/400 GT",
+      "Generations": [
+        "1964 - 1968"
+      ]
+    },
+    {
+      "Model": "Aventador",
+      "Generations": [
+        "2016 -  I Рестайлинг",
+        "2011 - 2016 I"
+      ]
+    },
+    {
+      "Model": "Centenario",
+      "Generations": [
+        "2016 - 2018 I"
+      ]
+    },
+    {
+      "Model": "Countach",
+      "Generations": [
+        "1974 - 1991"
+      ]
+    },
+    {
+      "Model": "Countach LPI 800-4",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Diablo",
+      "Generations": [
+        "1990 - 2001"
+      ]
+    },
+    {
+      "Model": "Espada",
+      "Generations": [
+        "1968 - 1981"
+      ]
+    },
+    {
+      "Model": "Gallardo",
+      "Generations": [
+        "2008 - 2013 I Рестайлинг",
+        "2003 - 2008 I"
+      ]
+    },
+    {
+      "Model": "Huracán",
+      "Generations": [
+        "2014 - "
+      ]
+    },
+    {
+      "Model": "Islero",
+      "Generations": [
+        "1968 - 1969"
+      ]
+    },
+    {
+      "Model": "Jalpa",
+      "Generations": [
+        "1981 - 1988"
+      ]
+    },
+    {
+      "Model": "Jarama",
+      "Generations": [
+        "1968 - 1976"
+      ]
+    },
+    {
+      "Model": "LM001",
+      "Generations": [
+        "1981 - 1981"
+      ]
+    },
+    {
+      "Model": "LM002",
+      "Generations": [
+        "1986 - 1993"
+      ]
+    },
+    {
+      "Model": "Miura",
+      "Generations": [
+        "1966 - 1973"
+      ]
+    },
+    {
+      "Model": "Murcielago",
+      "Generations": [
+        "2005 - 2010 I Рестайлинг",
+        "2001 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Reventon",
+      "Generations": [
+        "2007 - 2010"
+      ]
+    },
+    {
+      "Model": "Revuelto",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Sesto Elemento",
+      "Generations": [
+        "2010 - 2011"
+      ]
+    },
+    {
+      "Model": "Silhouette",
+      "Generations": [
+        "1976 - 1979"
+      ]
+    },
+    {
+      "Model": "Sián",
+      "Generations": [
+        "2020 - 2020"
+      ]
+    },
+    {
+      "Model": "Urraco",
+      "Generations": [
+        "1972 - 1981"
+      ]
+    },
+    {
+      "Model": "Urus",
+      "Generations": [
+        "2022 -  I Рестайлинг",
+        "2017 - 2022 I"
+      ]
+    },
+    {
+      "Model": "Veneno",
+      "Generations": [
+        "2013 - 2013"
+      ]
+    }
+  ]
+}

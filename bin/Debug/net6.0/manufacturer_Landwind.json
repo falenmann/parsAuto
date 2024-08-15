@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Landwind",
+  "Models": [
+    {
+      "Model": "Fashion (CV9)",
+      "Generations": [
+        "2006 - 2011"
+      ]
+    },
+    {
+      "Model": "Forward",
+      "Generations": [
+        "2006 - 2011"
+      ]
+    },
+    {
+      "Model": "X5",
+      "Generations": [
+        "2012 - 2020"
+      ]
+    },
+    {
+      "Model": "X6",
+      "Generations": [
+        "2005 - 2016"
+      ]
+    },
+    {
+      "Model": "X7",
+      "Generations": [
+        "2015 - 2019"
+      ]
+    },
+    {
+      "Model": "Х9",
+      "Generations": [
+        "2005 - 2016"
+      ]
+    }
+  ]
+}

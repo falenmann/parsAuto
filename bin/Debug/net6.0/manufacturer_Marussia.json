@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Marussia",
+  "Models": [
+    {
+      "Model": "B1",
+      "Generations": [
+        "2010 - 2014"
+      ]
+    },
+    {
+      "Model": "B2",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Venturi",
+  "Models": [
+    {
+      "Model": "210",
+      "Generations": [
+        "1984 - 1995"
+      ]
+    },
+    {
+      "Model": "260 LM",
+      "Generations": [
+        "1989 - 1995"
+      ]
+    },
+    {
+      "Model": "300 Atlantique",
+      "Generations": [
+        "1994 - 2000"
+      ]
+    },
+    {
+      "Model": "400 GT",
+      "Generations": [
+        "1994 - 1998"
+      ]
+    }
+  ]
+}

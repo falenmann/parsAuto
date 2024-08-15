@@ -1,0 +1,30 @@
+﻿{
+  "Make": "Saipa",
+  "Models": [
+    {
+      "Model": "Quick",
+      "Generations": [
+        "2018 - "
+      ]
+    },
+    {
+      "Model": "Saina",
+      "Generations": [
+        "2020 -  I Рестайлинг",
+        "2014 -  I"
+      ]
+    },
+    {
+      "Model": "Shahin",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Tiba",
+      "Generations": [
+        "2009 -  I"
+      ]
+    }
+  ]
+}

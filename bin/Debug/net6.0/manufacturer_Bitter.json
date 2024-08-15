@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Bitter",
+  "Models": [
+    {
+      "Model": "CD",
+      "Generations": [
+        "1973 - 1979"
+      ]
+    },
+    {
+      "Model": "Type 3",
+      "Generations": [
+        "1987 - 1988"
+      ]
+    }
+  ]
+}

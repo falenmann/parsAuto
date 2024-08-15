@@ -1,0 +1,45 @@
+﻿{
+  "Make": "DS",
+  "Models": [
+    {
+      "Model": "3",
+      "Generations": [
+        "2016 - 2019 I Рестайлинг",
+        "2015 - 2016 I"
+      ]
+    },
+    {
+      "Model": "3 Crossback",
+      "Generations": [
+        "2018 - 2022 I"
+      ]
+    },
+    {
+      "Model": "4",
+      "Generations": [
+        "2021 -  II",
+        "2015 - 2018 I Рестайлинг",
+        "2015 - 2015 I"
+      ]
+    },
+    {
+      "Model": "5",
+      "Generations": [
+        "2015 - 2018"
+      ]
+    },
+    {
+      "Model": "7 Crossback",
+      "Generations": [
+        "2022 -  I Рестайлинг",
+        "2017 - 2022 I"
+      ]
+    },
+    {
+      "Model": "9",
+      "Generations": [
+        "2020 - "
+      ]
+    }
+  ]
+}

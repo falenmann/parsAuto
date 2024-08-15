@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Excalibur",
+  "Models": [
+    {
+      "Model": "Series IV",
+      "Generations": [
+        "1980 - 1985"
+      ]
+    },
+    {
+      "Model": "Series V",
+      "Generations": [
+        "1985 - 1997"
+      ]
+    }
+  ]
+}

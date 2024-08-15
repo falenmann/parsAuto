@@ -1,0 +1,47 @@
+﻿{
+  "Make": "Derways",
+  "Models": [
+    {
+      "Model": "Antelope",
+      "Generations": [
+        "2007 - 2007"
+      ]
+    },
+    {
+      "Model": "Aurora",
+      "Generations": [
+        "2006 - 2008"
+      ]
+    },
+    {
+      "Model": "Cowboy",
+      "Generations": [
+        "2004 - 2006"
+      ]
+    },
+    {
+      "Model": "Land Crown",
+      "Generations": [
+        "2006 - 2007"
+      ]
+    },
+    {
+      "Model": "Plutus",
+      "Generations": [
+        "2007 - 2008"
+      ]
+    },
+    {
+      "Model": "Saladin",
+      "Generations": [
+        "2006 - 2008"
+      ]
+    },
+    {
+      "Model": "Shuttle",
+      "Generations": [
+        "2005 - 2008"
+      ]
+    }
+  ]
+}

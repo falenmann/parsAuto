@@ -1,0 +1,25 @@
+﻿{
+  "Make": "Vortex",
+  "Models": [
+    {
+      "Model": "Corda",
+      "Generations": [
+        "2010 - 2012"
+      ]
+    },
+    {
+      "Model": "Estina",
+      "Generations": [
+        "2012 - 2013 II (FL-C)",
+        "2008 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Tingo",
+      "Generations": [
+        "2012 - 2014 I (FL)",
+        "2010 - 2012 I"
+      ]
+    }
+  ]
+}

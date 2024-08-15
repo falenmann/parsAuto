@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Premier",
+  "Models": [
+    {
+      "Model": "118NE",
+      "Generations": [
+        "1985 - 2001"
+      ]
+    },
+    {
+      "Model": "Padmini",
+      "Generations": [
+        "1964 - 2000"
+      ]
+    }
+  ]
+}

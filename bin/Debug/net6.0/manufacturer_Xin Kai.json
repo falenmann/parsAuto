@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Xin Kai",
+  "Models": [
+    {
+      "Model": "Pickup X3",
+      "Generations": [
+        "2003 - 2006"
+      ]
+    },
+    {
+      "Model": "SR-V X3",
+      "Generations": [
+        "2003 - 2006"
+      ]
+    },
+    {
+      "Model": "SUV X3",
+      "Generations": [
+        "2003 - 2006"
+      ]
+    }
+  ]
+}

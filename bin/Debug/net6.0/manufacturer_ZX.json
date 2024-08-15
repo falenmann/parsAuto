@@ -1,0 +1,37 @@
+﻿{
+  "Make": "ZX",
+  "Models": [
+    {
+      "Model": "Admiral",
+      "Generations": [
+        "2005 - 2009"
+      ]
+    },
+    {
+      "Model": "Grand Tiger",
+      "Generations": [
+        "2022 -  I Рестайлинг 4",
+        "2007 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Grandlion",
+      "Generations": [
+        "2021 - "
+      ]
+    },
+    {
+      "Model": "Landmark",
+      "Generations": [
+        "2009 - 2011 I (V5) Рестайлинг",
+        "2005 - 2009 I"
+      ]
+    },
+    {
+      "Model": "Terralord",
+      "Generations": [
+        "2016 - "
+      ]
+    }
+  ]
+}

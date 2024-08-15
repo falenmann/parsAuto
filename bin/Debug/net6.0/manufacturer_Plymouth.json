@@ -1,0 +1,128 @@
+﻿{
+  "Make": "Plymouth",
+  "Models": [
+    {
+      "Model": "Acclaim",
+      "Generations": [
+        "1989 - 1995"
+      ]
+    },
+    {
+      "Model": "Barracuda",
+      "Generations": [
+        "1964 - 1974"
+      ]
+    },
+    {
+      "Model": "Breeze",
+      "Generations": [
+        "1995 - 2000"
+      ]
+    },
+    {
+      "Model": "Caravelle",
+      "Generations": [
+        "1983 - 1988"
+      ]
+    },
+    {
+      "Model": "Colt Vista",
+      "Generations": [
+        "1991 - 1995 II",
+        "1983 - 1991 I"
+      ]
+    },
+    {
+      "Model": "Cranbrook",
+      "Generations": [
+        "1951 - 1953"
+      ]
+    },
+    {
+      "Model": "Fury",
+      "Generations": [
+        "1975 - 1978 VII",
+        "1974 - 1974 VI",
+        "1969 - 1973 V",
+        "1965 - 1968 IV",
+        "1962 - 1964 III",
+        "1960 - 1961 II",
+        "1959 - 1960 I"
+      ]
+    },
+    {
+      "Model": "Horizon",
+      "Generations": [
+        "1977 - 1990 I"
+      ]
+    },
+    {
+      "Model": "Laser",
+      "Generations": [
+        "1989 - 1994"
+      ]
+    },
+    {
+      "Model": "Neon",
+      "Generations": [
+        "1993 - 2001"
+      ]
+    },
+    {
+      "Model": "Prowler",
+      "Generations": [
+        "1997 - 2002"
+      ]
+    },
+    {
+      "Model": "Reliant",
+      "Generations": [
+        "1981 - 1989 I"
+      ]
+    },
+    {
+      "Model": "Road Runner",
+      "Generations": [
+        "1968 - 1970 I"
+      ]
+    },
+    {
+      "Model": "Satellite",
+      "Generations": [
+        "1970 - 1974 III"
+      ]
+    },
+    {
+      "Model": "Sundance",
+      "Generations": [
+        "1986 - 1994"
+      ]
+    },
+    {
+      "Model": "Turismo",
+      "Generations": [
+        "1983 - 1987"
+      ]
+    },
+    {
+      "Model": "Valiant",
+      "Generations": [
+        "1967 - 1973 III"
+      ]
+    },
+    {
+      "Model": "Volare",
+      "Generations": [
+        "1975 - 1980"
+      ]
+    },
+    {
+      "Model": "Voyager",
+      "Generations": [
+        "1995 - 2000 III",
+        "1991 - 1995 II",
+        "1984 - 1990 I"
+      ]
+    }
+  ]
+}

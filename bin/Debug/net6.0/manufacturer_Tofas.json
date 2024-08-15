@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Tofas",
+  "Models": [
+    {
+      "Model": "Kartal",
+      "Generations": [
+        "1985 - 2003"
+      ]
+    },
+    {
+      "Model": "Murat 124",
+      "Generations": [
+        "1971 - 1977"
+      ]
+    },
+    {
+      "Model": "Murat 131",
+      "Generations": [
+        "1985 - 1995"
+      ]
+    },
+    {
+      "Model": "Sahin",
+      "Generations": [
+        "1990 - 2002 III"
+      ]
+    },
+    {
+      "Model": "Serce",
+      "Generations": [
+        "1985 - 1996"
+      ]
+    }
+  ]
+}

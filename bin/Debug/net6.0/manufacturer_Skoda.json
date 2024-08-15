@@ -1,0 +1,204 @@
+﻿{
+  "Make": "Skoda",
+  "Models": [
+    {
+      "Model": "100 Series",
+      "Generations": [
+        "1976 - 1991 II",
+        "1969 - 1984 I"
+      ]
+    },
+    {
+      "Model": "105, 120",
+      "Generations": [
+        "1976 - 1990 I"
+      ]
+    },
+    {
+      "Model": "1200",
+      "Generations": [
+        "1952 - 1973 I"
+      ]
+    },
+    {
+      "Model": "Citigo",
+      "Generations": [
+        "2017 - 2020 I Рестайлинг",
+        "2011 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Enyaq",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "Enyaq Coupe",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Enyaq Coupe RS",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Enyaq RS",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Fabia",
+      "Generations": [
+        "2021 -  IV",
+        "2018 - 2021 III Рестайлинг",
+        "2014 - 2018 III",
+        "2010 - 2014 II Рестайлинг",
+        "2007 - 2010 II",
+        "2004 - 2007 I Рестайлинг",
+        "1999 - 2004 I"
+      ]
+    },
+    {
+      "Model": "Fabia RS",
+      "Generations": [
+        "2010 - 2014 II",
+        "2003 - 2004 I",
+        "2003 - 2006 I Рестайлинг"
+      ]
+    },
+    {
+      "Model": "Favorit",
+      "Generations": [
+        "1989 - 2000"
+      ]
+    },
+    {
+      "Model": "Felicia",
+      "Generations": [
+        "1998 - 2001 I Рестайлинг",
+        "1994 - 2001 I",
+        "1959 - 1964 Type 994"
+      ]
+    },
+    {
+      "Model": "Forman",
+      "Generations": [
+        "1990 - 1995 I"
+      ]
+    },
+    {
+      "Model": "Kamiq",
+      "Generations": [
+        "2023 -  I Рестайлинг",
+        "2019 - 2023 I",
+        "2018 -  I (China Market)"
+      ]
+    },
+    {
+      "Model": "Karoq",
+      "Generations": [
+        "2021 -  I Рестайлинг",
+        "2017 -  I"
+      ]
+    },
+    {
+      "Model": "Kodiaq",
+      "Generations": [
+        "2023 -  II",
+        "2021 -  I Рестайлинг",
+        "2016 - 2022 I"
+      ]
+    },
+    {
+      "Model": "Kodiaq GT",
+      "Generations": [
+        "2019 - "
+      ]
+    },
+    {
+      "Model": "Kodiaq RS",
+      "Generations": [
+        "2021 -  I Рестайлинг",
+        "2018 - 2020 I"
+      ]
+    },
+    {
+      "Model": "Octavia",
+      "Generations": [
+        "2024 -  IV (A8) Рестайлинг",
+        "2019 -  IV (A8)",
+        "2017 -  III (A7) Рестайлинг",
+        "2013 - 2017 III (A7)",
+        "2008 - 2013 II (A5) Рестайлинг",
+        "2004 - 2009 II (A5)",
+        "2000 - 2011 I (A4) Рестайлинг",
+        "1996 - 2000 I (A4)",
+        "1959 - 1971 Type 985"
+      ]
+    },
+    {
+      "Model": "Octavia RS",
+      "Generations": [
+        "2024 -  IV Рестайлинг",
+        "2020 -  IV",
+        "2017 -  III Рестайлинг",
+        "2013 - 2017 III",
+        "2008 - 2013 II Рестайлинг",
+        "2005 - 2008 II",
+        "2001 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Popular",
+      "Generations": [
+        "1934 - 1946"
+      ]
+    },
+    {
+      "Model": "Rapid",
+      "Generations": [
+        "2020 -  II",
+        "2017 - 2020 I Рестайлинг",
+        "2012 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Roomster",
+      "Generations": [
+        "2010 - 2015 I Рестайлинг",
+        "2006 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Scala",
+      "Generations": [
+        "2023 -  I Рестайлинг",
+        "2019 - 2023 I"
+      ]
+    },
+    {
+      "Model": "Superb",
+      "Generations": [
+        "2023 -  IV",
+        "2019 -  III Рестайлинг",
+        "2015 - 2019 III",
+        "2013 - 2015 II Рестайлинг",
+        "2008 - 2013 II",
+        "2006 - 2008 I Рестайлинг",
+        "2001 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Yeti",
+      "Generations": [
+        "2013 - 2018 I Рестайлинг",
+        "2009 - 2014 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+﻿{
+  "Make": "Jeep",
+  "Models": [
+    {
+      "Model": "Avenger",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Cherokee",
+      "Generations": [
+        "2018 -  V (KL) Рестайлинг",
+        "2013 - 2018 V (KL)",
+        "2007 - 2012 IV (KK)",
+        "2004 - 2007 III (KJ) Рестайлинг",
+        "2001 - 2004 III (KJ)",
+        "1997 - 2001 II (XJ) Рестайлинг",
+        "1983 - 1996 II (XJ)"
+      ]
+    },
+    {
+      "Model": "CJ",
+      "Generations": [
+        "1966 - 1987"
+      ]
+    },
+    {
+      "Model": "Comanche",
+      "Generations": [
+        "1985 - 1992"
+      ]
+    },
+    {
+      "Model": "Commander",
+      "Generations": [
+        "2005 - 2010"
+      ]
+    },
+    {
+      "Model": "Compass",
+      "Generations": [
+        "2020 -  II Рестайлинг",
+        "2017 - 2021 II",
+        "2013 - 2016 I Рестайлинг 2",
+        "2010 - 2013 I Рестайлинг",
+        "2006 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Gladiator",
+      "Generations": [
+        "2023 -  II (JT) Рестайлинг",
+        "2019 - 2023 II (JT)"
+      ]
+    },
+    {
+      "Model": "Grand Cherokee",
+      "Generations": [
+        "2021 -  V (WL)",
+        "2013 - 2022 IV (WK2) Рестайлинг",
+        "2010 - 2013 IV (WK2)",
+        "2004 - 2010 III (WK)",
+        "1998 - 2004 II (WJ)",
+        "1996 - 1998 I (ZJ) Рестайлинг",
+        "1992 - 1996 I (ZJ)"
+      ]
+    },
+    {
+      "Model": "Grand Commander",
+      "Generations": [
+        "2021 - 2022 I (K8) Рестайлинг",
+        "2018 - 2021 I (K8)"
+      ]
+    },
+    {
+      "Model": "Liberty (North America)",
+      "Generations": [
+        "2007 - 2012 II",
+        "2001 - 2007 I"
+      ]
+    },
+    {
+      "Model": "Liberty (Patriot)",
+      "Generations": [
+        "2006 - 2016"
+      ]
+    },
+    {
+      "Model": "Renegade",
+      "Generations": [
+        "2018 -  I Рестайлинг",
+        "2014 - 2019 I"
+      ]
+    },
+    {
+      "Model": "Wagoneer",
+      "Generations": [
+        "2021 -  WS",
+        "1984 - 1991 SJ"
+      ]
+    },
+    {
+      "Model": "Wrangler",
+      "Generations": [
+        "2023 -  IV (JL) Рестайлинг",
+        "2017 - 2023 IV (JL)",
+        "2007 - 2018 III (JK)",
+        "1996 - 2006 II (TJ)",
+        "1986 - 1996 I (YJ)"
+      ]
+    }
+  ]
+}

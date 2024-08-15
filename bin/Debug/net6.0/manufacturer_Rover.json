@@ -1,0 +1,117 @@
+﻿{
+  "Make": "Rover",
+  "Models": [
+    {
+      "Model": "100",
+      "Generations": [
+        "1994 - 2000"
+      ]
+    },
+    {
+      "Model": "14",
+      "Generations": [
+        "1933 - 1948 I"
+      ]
+    },
+    {
+      "Model": "200",
+      "Generations": [
+        "1995 - 1999 III (R3)",
+        "1989 - 1999 II (R8)",
+        "1984 - 1989 I (SD3)"
+      ]
+    },
+    {
+      "Model": "25",
+      "Generations": [
+        "1999 - 2005"
+      ]
+    },
+    {
+      "Model": "400",
+      "Generations": [
+        "1995 - 2000 II (HH-R)",
+        "1990 - 1998 I (R8)"
+      ]
+    },
+    {
+      "Model": "45",
+      "Generations": [
+        "1999 - 2005"
+      ]
+    },
+    {
+      "Model": "600",
+      "Generations": [
+        "1993 - 1999"
+      ]
+    },
+    {
+      "Model": "75",
+      "Generations": [
+        "2004 - 2005 I Рестайлинг",
+        "1999 - 2004 I"
+      ]
+    },
+    {
+      "Model": "800",
+      "Generations": [
+        "1986 - 1999"
+      ]
+    },
+    {
+      "Model": "Maestro",
+      "Generations": [
+        "1991 - 1997"
+      ]
+    },
+    {
+      "Model": "Metro",
+      "Generations": [
+        "1987 - 1994"
+      ]
+    },
+    {
+      "Model": "Mini",
+      "Generations": [
+        "1989 - 2000"
+      ]
+    },
+    {
+      "Model": "Montego",
+      "Generations": [
+        "1988 - 1994"
+      ]
+    },
+    {
+      "Model": "P3",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "P4",
+      "Generations": [
+        "1949 - 1964"
+      ]
+    },
+    {
+      "Model": "P6",
+      "Generations": [
+        "1963 - 1977"
+      ]
+    },
+    {
+      "Model": "SD1",
+      "Generations": [
+        "1976 - 1986"
+      ]
+    },
+    {
+      "Model": "Streetwise",
+      "Generations": [
+        "2003 - 2005"
+      ]
+    }
+  ]
+}

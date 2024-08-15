@@ -1,0 +1,15 @@
+﻿{
+  "Make": "Batmobile",
+  "Models": [
+    {
+      "Model": "1989",
+      "Generations": []
+    },
+    {
+      "Model": "2018",
+      "Generations": [
+        "2018 - 2018 I"
+      ]
+    }
+  ]
+}

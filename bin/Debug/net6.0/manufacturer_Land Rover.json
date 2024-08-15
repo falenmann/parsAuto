@@ -1,0 +1,99 @@
+﻿{
+  "Make": "Land Rover",
+  "Models": [
+    {
+      "Model": "Defender",
+      "Generations": [
+        "2019 -  II",
+        "2007 - 2016 I Рестайлинг",
+        "1983 - 2007 I"
+      ]
+    },
+    {
+      "Model": "Discovery",
+      "Generations": [
+        "2020 -  V Рестайлинг",
+        "2016 - 2021 V",
+        "2013 - 2016 IV Рестайлинг",
+        "2009 - 2013 IV",
+        "2004 - 2009 III",
+        "1998 - 2004 II",
+        "1989 - 1998 I"
+      ]
+    },
+    {
+      "Model": "Discovery Sport",
+      "Generations": [
+        "2019 -  I Рестайлинг",
+        "2014 - 2019 I"
+      ]
+    },
+    {
+      "Model": "Freelander",
+      "Generations": [
+        "2012 - 2014 II Рестайлинг 2",
+        "2010 - 2012 II Рестайлинг",
+        "2006 - 2010 II",
+        "2003 - 2006 I Рестайлинг",
+        "1997 - 2003 I"
+      ]
+    },
+    {
+      "Model": "Range Rover",
+      "Generations": [
+        "2021 -  V",
+        "2017 - 2022 IV Рестайлинг",
+        "2012 - 2017 IV",
+        "2009 - 2012 III Рестайлинг 2",
+        "2005 - 2009 III Рестайлинг",
+        "2001 - 2005 III",
+        "1994 - 2002 II",
+        "1970 - 1996 I"
+      ]
+    },
+    {
+      "Model": "Range Rover Evoque",
+      "Generations": [
+        "2023 -  II Рестайлинг",
+        "2018 - 2023 II",
+        "2015 - 2018 I Рестайлинг",
+        "2011 - 2015 I"
+      ]
+    },
+    {
+      "Model": "Range Rover Sport",
+      "Generations": [
+        "2022 -  III",
+        "2017 - 2022 II Рестайлинг",
+        "2013 - 2017 II",
+        "2009 - 2013 I Рестайлинг",
+        "2005 - 2009 I"
+      ]
+    },
+    {
+      "Model": "Range Rover Velar",
+      "Generations": [
+        "2023 -  I Рестайлинг",
+        "2017 -  I"
+      ]
+    },
+    {
+      "Model": "Series I",
+      "Generations": [
+        "1948 - 1956"
+      ]
+    },
+    {
+      "Model": "Series II",
+      "Generations": [
+        "1958 - 1971"
+      ]
+    },
+    {
+      "Model": "Series III",
+      "Generations": [
+        "1971 - 1985"
+      ]
+    }
+  ]
+}

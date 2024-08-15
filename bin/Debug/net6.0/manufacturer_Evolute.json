@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Evolute",
+  "Models": [
+    {
+      "Model": "i-JET",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "i-JOY",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "i-PRO",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "i-SKY",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "i-SPACE",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "i-VAN",
+      "Generations": [
+        "2022 - "
+      ]
+    }
+  ]
+}

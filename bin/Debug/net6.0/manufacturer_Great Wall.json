@@ -1,0 +1,157 @@
+﻿{
+  "Make": "Great Wall",
+  "Models": [
+    {
+      "Model": "Coolbear",
+      "Generations": [
+        "2009 - 2013"
+      ]
+    },
+    {
+      "Model": "Cowry (V80)",
+      "Generations": [
+        "2007 - 2014"
+      ]
+    },
+    {
+      "Model": "Deer",
+      "Generations": [
+        "1996 - 2013"
+      ]
+    },
+    {
+      "Model": "Florid",
+      "Generations": [
+        "2008 - 2013"
+      ]
+    },
+    {
+      "Model": "Hover",
+      "Generations": [
+        "2005 - 2010"
+      ]
+    },
+    {
+      "Model": "Hover H3",
+      "Generations": [
+        "2014 - 2016 I Рестайлинг",
+        "2010 - 2015 I"
+      ]
+    },
+    {
+      "Model": "Hover H5",
+      "Generations": [
+        "2010 - 2017"
+      ]
+    },
+    {
+      "Model": "Hover H6",
+      "Generations": [
+        "2011 - 2017"
+      ]
+    },
+    {
+      "Model": "Hover M1 (Peri 4x4)",
+      "Generations": [
+        "2008 - 2010"
+      ]
+    },
+    {
+      "Model": "Hover M2",
+      "Generations": [
+        "2010 - 2014"
+      ]
+    },
+    {
+      "Model": "Hover M4",
+      "Generations": [
+        "2012 - 2017"
+      ]
+    },
+    {
+      "Model": "Hover Pi",
+      "Generations": [
+        "2006 - 2010"
+      ]
+    },
+    {
+      "Model": "Pegasus",
+      "Generations": [
+        "2006 - 2008"
+      ]
+    },
+    {
+      "Model": "Peri",
+      "Generations": [
+        "2008 - 2010"
+      ]
+    },
+    {
+      "Model": "Poer",
+      "Generations": [
+        "2019 -  I"
+      ]
+    },
+    {
+      "Model": "Poer King Kong",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Safe",
+      "Generations": [
+        "2001 - 2010"
+      ]
+    },
+    {
+      "Model": "Sailor",
+      "Generations": [
+        "2003 - 2010"
+      ]
+    },
+    {
+      "Model": "Shanhai Poer",
+      "Generations": [
+        "2022 - "
+      ]
+    },
+    {
+      "Model": "Sing RUV",
+      "Generations": [
+        "2005 - 2010"
+      ]
+    },
+    {
+      "Model": "Socool",
+      "Generations": [
+        "2005 - 2008"
+      ]
+    },
+    {
+      "Model": "Voleex C10 (Phenom)",
+      "Generations": [
+        "2010 - 2013"
+      ]
+    },
+    {
+      "Model": "Voleex C30",
+      "Generations": [
+        "2010 - 2014"
+      ]
+    },
+    {
+      "Model": "Wingle",
+      "Generations": [
+        "2011 - 2015 II (Wingle 5)",
+        "2006 - 2012 I (Wingle 3)"
+      ]
+    },
+    {
+      "Model": "Wingle 7",
+      "Generations": [
+        "2018 - 2023"
+      ]
+    }
+  ]
+}

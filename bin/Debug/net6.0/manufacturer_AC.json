@@ -1,0 +1,32 @@
+﻿{
+  "Make": "AC",
+  "Models": [
+    {
+      "Model": "378 GT Zagato",
+      "Generations": [
+        "2012 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Ace",
+      "Generations": [
+        "1992 - 2000"
+      ]
+    },
+    {
+      "Model": "Aceca",
+      "Generations": [
+        "1998 - 2000"
+      ]
+    },
+    {
+      "Model": "Cobra",
+      "Generations": [
+        "2013 - 2015 Mk VI",
+        "1999 - 2007 Mk V",
+        "1990 - 2001 Mk IV",
+        "1965 - 1967 Mk III"
+      ]
+    }
+  ]
+}

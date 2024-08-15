@@ -1,0 +1,11 @@
+﻿{
+  "Make": "Messerschmitt",
+  "Models": [
+    {
+      "Model": "KR200",
+      "Generations": [
+        "1952 - 1964"
+      ]
+    }
+  ]
+}

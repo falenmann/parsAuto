@@ -1,0 +1,119 @@
+﻿{
+  "Make": "Proton",
+  "Models": [
+    {
+      "Model": "Arena",
+      "Generations": [
+        "2002 - 2010 I"
+      ]
+    },
+    {
+      "Model": "Exora",
+      "Generations": [
+        "2009 - "
+      ]
+    },
+    {
+      "Model": "Gen-2",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Inspira",
+      "Generations": [
+        "2010 - 2015"
+      ]
+    },
+    {
+      "Model": "Iriz",
+      "Generations": [
+        "2019 -  I Рестайлинг 2",
+        "2017 - 2019 I Рестайлинг",
+        "2014 - 2017 I"
+      ]
+    },
+    {
+      "Model": "Juara",
+      "Generations": [
+        "2001 - 2003"
+      ]
+    },
+    {
+      "Model": "Perdana",
+      "Generations": [
+        "1995 - 2010"
+      ]
+    },
+    {
+      "Model": "Persona",
+      "Generations": [
+        "2016 -  III",
+        "2007 - 2016 II",
+        "1993 - 2007 I"
+      ]
+    },
+    {
+      "Model": "Preve",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Putra",
+      "Generations": [
+        "1996 - 2004 I"
+      ]
+    },
+    {
+      "Model": "Saga",
+      "Generations": [
+        "2008 -  II",
+        "1985 - 2008 I"
+      ]
+    },
+    {
+      "Model": "Satria",
+      "Generations": [
+        "2006 - 2015 II",
+        "1996 - 2005 I (300 Series)"
+      ]
+    },
+    {
+      "Model": "Savvy",
+      "Generations": [
+        "2005 - 2011 I"
+      ]
+    },
+    {
+      "Model": "Tiara",
+      "Generations": [
+        "1996 - 2000 I"
+      ]
+    },
+    {
+      "Model": "Waja",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Wira (400 Series)",
+      "Generations": [
+        "1993 - 2009"
+      ]
+    },
+    {
+      "Model": "X50",
+      "Generations": [
+        "2020 - "
+      ]
+    },
+    {
+      "Model": "X70",
+      "Generations": [
+        ""
+      ]
+    }
+  ]
+}

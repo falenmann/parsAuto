@@ -1,0 +1,654 @@
+﻿{
+  "Make": "Mitsubishi",
+  "Models": [
+    {
+      "Model": "3000 GT",
+      "Generations": [
+        "1998 - 2001 II Рестайлинг",
+        "1994 - 1998 II",
+        "1990 - 1994 I"
+      ]
+    },
+    {
+      "Model": "500",
+      "Generations": [
+        "1960 - 1962 I"
+      ]
+    },
+    {
+      "Model": "Airtrek",
+      "Generations": [
+        "2022 -  II",
+        "2001 - 2008 I"
+      ]
+    },
+    {
+      "Model": "Aspire",
+      "Generations": [
+        "1998 - 2003"
+      ]
+    },
+    {
+      "Model": "ASX",
+      "Generations": [
+        "2024 -  II Рестайлинг",
+        "2023 -  II",
+        "2020 -  I Рестайлинг 3",
+        "2016 - 2020 I Рестайлинг 2",
+        "2012 - 2016 I Рестайлинг",
+        "2010 - 2013 I"
+      ]
+    },
+    {
+      "Model": "Attrage",
+      "Generations": [
+        "2014 - "
+      ]
+    },
+    {
+      "Model": "Bravo",
+      "Generations": [
+        "1991 - 1999 I"
+      ]
+    },
+    {
+      "Model": "Carisma",
+      "Generations": [
+        "1999 - 2004 I Рестайлинг",
+        "1995 - 1999 I"
+      ]
+    },
+    {
+      "Model": "Celeste",
+      "Generations": [
+        "1975 - 1981"
+      ]
+    },
+    {
+      "Model": "Challenger",
+      "Generations": [
+        "2013 - 2015 II Рестайлинг",
+        "2008 - 2013 II",
+        "1999 - 2008 I Рестайлинг",
+        "1996 - 2000 I"
+      ]
+    },
+    {
+      "Model": "Chariot",
+      "Generations": [
+        "1997 - 2003 III",
+        "1991 - 1997 II",
+        "1983 - 1991 I"
+      ]
+    },
+    {
+      "Model": "Colt",
+      "Generations": [
+        "2023 -  VII",
+        "2008 - 2012 VI (Z30) Рестайлинг",
+        "2002 - 2012 VI (Z20/Z30)",
+        "1995 - 2003 V (CJ)",
+        "1992 - 1996 IV (CA0)",
+        "1988 - 1992 III (C50)",
+        "1984 - 1988 II (C10)",
+        "1978 - 1984 I (A150)"
+      ]
+    },
+    {
+      "Model": "Cordia",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Debonair",
+      "Generations": [
+        "1992 - 1999 III",
+        "1986 - 1992 II"
+      ]
+    },
+    {
+      "Model": "Delica",
+      "Generations": [
+        "2011 -  V",
+        "1994 - 2007 IV",
+        "1986 - 1999 III",
+        "1979 - 1986 II"
+      ]
+    },
+    {
+      "Model": "Delica D:2",
+      "Generations": [
+        "2015 -  II",
+        "2011 - 2015 I"
+      ]
+    },
+    {
+      "Model": "Delica D:3",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Delica D:5",
+      "Generations": [
+        "2018 -  I Рестайлинг",
+        "2007 - 2019 I"
+      ]
+    },
+    {
+      "Model": "Diamante",
+      "Generations": [
+        "1995 - 2005 II",
+        "1990 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Dignity",
+      "Generations": [
+        "2012 - 2016 II",
+        "1999 - 2001 I"
+      ]
+    },
+    {
+      "Model": "Dingo",
+      "Generations": [
+        "1998 - 2003"
+      ]
+    },
+    {
+      "Model": "Dion",
+      "Generations": [
+        "2002 - 2005 I Рестайлинг",
+        "2000 - 2002 I"
+      ]
+    },
+    {
+      "Model": "Eclipse",
+      "Generations": [
+        "2008 - 2011 IV Рестайлинг",
+        "2005 - 2008 IV",
+        "1999 - 2005 III",
+        "1994 - 1999 II",
+        "1989 - 1995 I"
+      ]
+    },
+    {
+      "Model": "Eclipse Cross",
+      "Generations": [
+        "2020 -  I Рестайлинг",
+        "2017 - 2022 I"
+      ]
+    },
+    {
+      "Model": "eK Active",
+      "Generations": [
+        "2004 - 2006 I"
+      ]
+    },
+    {
+      "Model": "eK Classic",
+      "Generations": [
+        "2003 - 2005 I"
+      ]
+    },
+    {
+      "Model": "eK Custom",
+      "Generations": [
+        "2015 - 2019 I Рестайлинг",
+        "2013 - 2015 I"
+      ]
+    },
+    {
+      "Model": "eK Space",
+      "Generations": [
+        "2020 -  II",
+        "2016 - 2020 I Рестайлинг",
+        "2014 - 2016 I"
+      ]
+    },
+    {
+      "Model": "eK Sport",
+      "Generations": [
+        "2006 - 2013 I Рестайлинг",
+        "2002 - 2006 I"
+      ]
+    },
+    {
+      "Model": "eK Wagon",
+      "Generations": [
+        "2019 -  IV",
+        "2015 - 2019 III Рестайлинг",
+        "2013 - 2015 III",
+        "2006 - 2013 II",
+        "2001 - 2006 I"
+      ]
+    },
+    {
+      "Model": "Emeraude",
+      "Generations": [
+        "1992 - 1996"
+      ]
+    },
+    {
+      "Model": "Endeavor",
+      "Generations": [
+        "2002 - 2011"
+      ]
+    },
+    {
+      "Model": "Eterna",
+      "Generations": [
+        "1992 - 1996 VII",
+        "1988 - 1992 VI",
+        "1983 - 1989 V"
+      ]
+    },
+    {
+      "Model": "Freeca",
+      "Generations": [
+        "1997 - 2009 I"
+      ]
+    },
+    {
+      "Model": "FTO",
+      "Generations": [
+        "1994 - 2001"
+      ]
+    },
+    {
+      "Model": "Galant",
+      "Generations": [
+        "2008 - 2012 IX Рестайлинг 2",
+        "2006 - 2008 IX Рестайлинг",
+        "2003 - 2006 IX",
+        "1998 - 2006 VIII Рестайлинг",
+        "1996 - 1999 VIII",
+        "1992 - 1997 VII",
+        "1987 - 1992 VI",
+        "1983 - 1990 V",
+        "1980 - 1987 IV",
+        "1976 - 1980 III"
+      ]
+    },
+    {
+      "Model": "Galant Fortis",
+      "Generations": [
+        "2007 - 2015 I"
+      ]
+    },
+    {
+      "Model": "Grandis",
+      "Generations": [
+        "2003 - 2011"
+      ]
+    },
+    {
+      "Model": "GTO",
+      "Generations": [
+        "1998 - 2005 II Рестайлинг (Z15AM)",
+        "1993 - 1998 II (Z15A)",
+        "1990 - 1993 I (Z16A)"
+      ]
+    },
+    {
+      "Model": "i",
+      "Generations": [
+        "2006 - 2013"
+      ]
+    },
+    {
+      "Model": "i-MiEV",
+      "Generations": [
+        "2009 - 2015"
+      ]
+    },
+    {
+      "Model": "Jeep J",
+      "Generations": [
+        "1953 - 1998"
+      ]
+    },
+    {
+      "Model": "L200",
+      "Generations": [
+        "2023 -  VI",
+        "2018 -  V Рестайлинг",
+        "2015 - 2019 V",
+        "2013 - 2015 IV Рестайлинг",
+        "2006 - 2014 IV",
+        "2004 - 2006 III Рестайлинг",
+        "1996 - 2006 III",
+        "1986 - 1996 II"
+      ]
+    },
+    {
+      "Model": "L300",
+      "Generations": [
+        "1986 - 1999 II",
+        "1979 - 1986 I"
+      ]
+    },
+    {
+      "Model": "L400",
+      "Generations": [
+        "1995 - 2006"
+      ]
+    },
+    {
+      "Model": "Lancer",
+      "Generations": [
+        "2015 - 2017 X Рестайлинг 2",
+        "2011 - 2015 X Рестайлинг",
+        "2007 - 2010 X",
+        "2005 - 2010 IX Рестайлинг",
+        "2000 - 2007 IX",
+        "1995 - 2000 VII",
+        "1991 - 2000 VI",
+        "1988 - 1994 V",
+        "1983 - 1992 IV",
+        "1982 - 1984 III",
+        "1979 - 1987 II",
+        "1973 - 1985 I"
+      ]
+    },
+    {
+      "Model": "Lancer Cargo",
+      "Generations": [
+        "2017 - 2019 Y12 Рестайлинг",
+        "2008 - 2017 Y12",
+        "2002 - 2008 CS2V"
+      ]
+    },
+    {
+      "Model": "Lancer Evolution",
+      "Generations": [
+        "2007 - 2016 X",
+        "2005 - 2007 IX",
+        "2003 - 2005 VIII",
+        "2001 - 2003 VII",
+        "1999 - 2001 VI",
+        "1998 - 1999 V",
+        "1996 - 1998 IV",
+        "1995 - 1996 III",
+        "1994 - 1995 II",
+        "1992 - 1994 I"
+      ]
+    },
+    {
+      "Model": "Lancer Ralliart",
+      "Generations": [
+        "2008 - 2012 X",
+        "2005 - 2007 IX Рестайлинг",
+        "2003 - 2005 IX"
+      ]
+    },
+    {
+      "Model": "Legnum",
+      "Generations": [
+        "1996 - 2002"
+      ]
+    },
+    {
+      "Model": "Libero",
+      "Generations": [
+        "1995 - 2003 I Рестайлинг",
+        "1992 - 1995 I"
+      ]
+    },
+    {
+      "Model": "Minica",
+      "Generations": [
+        "1998 - 2011 VIII",
+        "1993 - 1998 VII",
+        "1989 - 1993 VI",
+        "1984 - 1989 V"
+      ]
+    },
+    {
+      "Model": "Minicab",
+      "Generations": [
+        "2015 -  VIII",
+        "2014 - 2015 VII",
+        "1999 - 2014 VI"
+      ]
+    },
+    {
+      "Model": "Mirage",
+      "Generations": [
+        "2019 -  VI Рестайлинг 2",
+        "2015 - 2019 VI Рестайлинг",
+        "2012 - 2015 VI",
+        "1995 - 2003 V",
+        "1991 - 1995 IV",
+        "1987 - 1991 III",
+        "1983 - 1988 II",
+        "1978 - 1983 I"
+      ]
+    },
+    {
+      "Model": "Montero",
+      "Generations": [
+        "2006 -  IV",
+        "1999 - 2006 III",
+        "1991 - 2000 II",
+        "1982 - 1991 I"
+      ]
+    },
+    {
+      "Model": "Montero Sport",
+      "Generations": [
+        "2019 -  III Рестайлинг",
+        "2015 - 2019 III",
+        "1996 - 2008 I"
+      ]
+    },
+    {
+      "Model": "Outlander",
+      "Generations": [
+        "2021 -  IV",
+        "2018 -  III Рестайлинг 3",
+        "2015 - 2018 III Рестайлинг 2",
+        "2014 - 2015 III Рестайлинг",
+        "2012 - 2015 III",
+        "2009 - 2013 II Рестайлинг",
+        "2005 - 2009 II",
+        "2002 - 2009 I"
+      ]
+    },
+    {
+      "Model": "Outlander Sport",
+      "Generations": [
+        "2019 -  I Рестайлинг 3",
+        "2015 - 2019 I Рестайлинг 2",
+        "2012 - 2015 I Рестайлинг",
+        "2010 - 2012 I"
+      ]
+    },
+    {
+      "Model": "Pajero",
+      "Generations": [
+        "2014 -  IV Рестайлинг 2",
+        "2011 - 2014 IV Рестайлинг 1",
+        "2006 - 2011 IV",
+        "2002 - 2006 III Рестайлинг",
+        "1999 - 2002 III",
+        "1997 - 2004 II Рестайлинг",
+        "1991 - 1997 II",
+        "1982 - 1991 I"
+      ]
+    },
+    {
+      "Model": "Pajero iO",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Pajero Junior",
+      "Generations": [
+        ""
+      ]
+    },
+    {
+      "Model": "Pajero Mini",
+      "Generations": [
+        "1998 - 2012 II",
+        "1994 - 1998 I"
+      ]
+    },
+    {
+      "Model": "Pajero Pinin",
+      "Generations": [
+        "1998 - 2006"
+      ]
+    },
+    {
+      "Model": "Pajero Sport",
+      "Generations": [
+        "2019 -  III Рестайлинг",
+        "2015 - 2021 III",
+        "2013 - 2016 II Рестайлинг",
+        "2008 - 2013 II",
+        "2004 - 2009 I Рестайлинг",
+        "1998 - 2004 I"
+      ]
+    },
+    {
+      "Model": "Pistachio",
+      "Generations": [
+        "1999 - 2000"
+      ]
+    },
+    {
+      "Model": "Proudia",
+      "Generations": [
+        "2012 - 2016 II",
+        "1999 - 2001 I"
+      ]
+    },
+    {
+      "Model": "Raider",
+      "Generations": [
+        "2006 - 2009"
+      ]
+    },
+    {
+      "Model": "RVR",
+      "Generations": [
+        "2019 -  III Рестайлинг 3",
+        "2017 - 2019 III Рестайлинг 2",
+        "2012 - 2017 III Рестайлинг",
+        "2010 - 2012 III",
+        "1997 - 2002 II",
+        "1991 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Sapporo",
+      "Generations": [
+        "1987 - 1990 II",
+        "1978 - 1984 I"
+      ]
+    },
+    {
+      "Model": "Savrin",
+      "Generations": [
+        "2001 - 2014 I"
+      ]
+    },
+    {
+      "Model": "Sigma",
+      "Generations": [
+        "1990 - 1996"
+      ]
+    },
+    {
+      "Model": "Space Gear",
+      "Generations": [
+        "1997 - 2007 I Рестайлинг",
+        "1994 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Space Runner",
+      "Generations": [
+        "1999 - 2002 II",
+        "1991 - 1999 I"
+      ]
+    },
+    {
+      "Model": "Space Star",
+      "Generations": [
+        "2016 -  II Рестайлинг",
+        "2012 - 2016 II",
+        "2002 - 2005 I Рестайлинг",
+        "1998 - 2002 I"
+      ]
+    },
+    {
+      "Model": "Space Wagon",
+      "Generations": [
+        "1998 - 2004 III",
+        "1991 - 1998 II",
+        "1984 - 1991 I"
+      ]
+    },
+    {
+      "Model": "Starion",
+      "Generations": [
+        "1982 - 1990"
+      ]
+    },
+    {
+      "Model": "Strada",
+      "Generations": [
+        "1997 - 2005 II",
+        "1991 - 1997 I"
+      ]
+    },
+    {
+      "Model": "Toppo",
+      "Generations": [
+        "2008 - 2013 III",
+        "1998 - 2004 II",
+        "1990 - 1998 I"
+      ]
+    },
+    {
+      "Model": "Town Box",
+      "Generations": [
+        "2015 -  III",
+        "2014 - 2015 II",
+        "1999 - 2011 I"
+      ]
+    },
+    {
+      "Model": "Tredia",
+      "Generations": [
+        "1982 - 1987"
+      ]
+    },
+    {
+      "Model": "Triton",
+      "Generations": [
+        "2023 -  IV",
+        "2018 - 2023 III Рестайлинг",
+        "2015 - 2018 III",
+        "2006 - 2014 II"
+      ]
+    },
+    {
+      "Model": "Xforce",
+      "Generations": [
+        "2023 - "
+      ]
+    },
+    {
+      "Model": "Xpander",
+      "Generations": [
+        "2017 -  I"
+      ]
+    }
+  ]
+}
